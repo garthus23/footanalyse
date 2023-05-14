@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 
+import os
 import json
 import requests
 from bs4 import BeautifulSoup
-
-
+from flask import Flask, render_template, redirect, url_for, send_from_directory
+  
 class Country():
     def __init__(self, cname):
         self.cname = cname
@@ -64,9 +65,24 @@ for country in countrys:
         teamdict[ind].url = team.a['href']
         ind += 1
 
-for value in teamdict:
-        print(value.__dict__)
+#for value in teamdict:
+#        print(value.__dict__)
 
 with open("teaminfo.json", "w") as outfile:
     json.dump([ob.__dict__ for ob in teamdict], outfile, ensure_ascii=False,indent=4, sort_keys=False)
 
+
+app = Flask(__name__)
+  
+@app.route("/")
+def home():
+    return render_template("index.html", teams1=teams1, teams2=teams2, zip=zip)
+
+@app.route('/favicon.ico')
+def favicon():
+    return send_from_directory(os.path.join(app.root_path, 'static'),
+                               'favicon.ico', mimetype='image/vnd.microsoft.icon')
+
+
+if __name__ == "__main__":
+    app.run(host='0.0.0.0', debug=False)

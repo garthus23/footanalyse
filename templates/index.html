@@ -1,0 +1,15 @@
+<html>
+    <head>
+    	<link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
+        <title>Variable Example</title>
+    </head>
+    <body>
+        <h3> Matchs :</h3> 
+	{% for team1,team2 in zip(teams1,teams2) %}
+	{{ team1.text }} - {{ team2.text }}
+	<br> </br>
+	-------------------
+	<br> </br>
+	{% endfor %}
+    </body>
+</html>

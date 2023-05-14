@@ -150,6 +150,12 @@
         "url": "/equipe/liverpool-fc.html"
     },
     {
+        "tname": "brighton ",
+        "cname": "angleterre",
+        "logo": "/image/logo/club/16/brighton-logo703.png?v=20221108",
+        "url": "/equipe/brighton.html"
+    },
+    {
         "tname": "tottenham",
         "cname": "angleterre",
         "logo": "/image/logo/club/16/tottenham-logo675.png?v=20221108",
@@ -160,12 +166,6 @@
         "cname": "angleterre",
         "logo": "/image/logo/club/16/aston-villa-logo665.png?v=20221108",
         "url": "/equipe/aston-villa.html"
-    },
-    {
-        "tname": "brighton ",
-        "cname": "angleterre",
-        "logo": "/image/logo/club/16/brighton-logo703.png?v=20221108",
-        "url": "/equipe/brighton.html"
     },
     {
         "tname": "brentford",
@@ -294,16 +294,16 @@
         "url": "/equipe/osasuna.html"
     },
     {
-        "tname": "rayo vallecano",
-        "cname": "espagne",
-        "logo": "/image/logo/club/16/rayo-vallecano-logo2054.png?v=20221108",
-        "url": "/equipe/rayo-vallecano.html"
-    },
-    {
         "tname": "séville",
         "cname": "espagne",
         "logo": "/image/logo/club/16/seville-logo2021.png?v=20221108",
         "url": "/equipe/fc-seville.html"
+    },
+    {
+        "tname": "rayo vallecano",
+        "cname": "espagne",
+        "logo": "/image/logo/club/16/rayo-vallecano-logo2054.png?v=20221108",
+        "url": "/equipe/rayo-vallecano.html"
     },
     {
         "tname": "majorque",
@@ -492,16 +492,16 @@
         "url": "/equipe/borussia-dortmund.html"
     },
     {
-        "tname": "union berlin",
-        "cname": "allemagne",
-        "logo": "/image/logo/club/16/union-berlin-logo1026.png?v=20221108",
-        "url": "/equipe/union-berlin.html"
-    },
-    {
         "tname": "rb leipzig",
         "cname": "allemagne",
         "logo": "/image/logo/club/16/rb-leipzig-logo13410.png?v=20221108",
         "url": "/equipe/rb-leipzig.html"
+    },
+    {
+        "tname": "union berlin",
+        "cname": "allemagne",
+        "logo": "/image/logo/club/16/union-berlin-logo1026.png?v=20221108",
+        "url": "/equipe/union-berlin.html"
     },
     {
         "tname": "fribourg",
