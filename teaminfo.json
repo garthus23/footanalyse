@@ -1,0 +1,590 @@
+[
+    {
+        "tname": "paris saint-germain",
+        "cname": "france",
+        "logo": "/image/logo/club/16/paris-saint-germain-logo886.png?v=20221108",
+        "url": "/equipe/paris-saint-germain.html"
+    },
+    {
+        "tname": "lens",
+        "cname": "france",
+        "logo": "/image/logo/club/16/lens-logo892.png?v=20221108",
+        "url": "/equipe/lens.html"
+    },
+    {
+        "tname": "marseille",
+        "cname": "france",
+        "logo": "/image/logo/club/16/marseille-logo890.png?v=20221108",
+        "url": "/equipe/marseille.html"
+    },
+    {
+        "tname": "monaco",
+        "cname": "france",
+        "logo": "/image/logo/club/16/monaco-logo885.png?v=20221108",
+        "url": "/equipe/monaco.html"
+    },
+    {
+        "tname": "lille",
+        "cname": "france",
+        "logo": "/image/logo/club/16/lille-logo895.png?v=20221108",
+        "url": "/equipe/lille.html"
+    },
+    {
+        "tname": "rennes",
+        "cname": "france",
+        "logo": "/image/logo/club/16/rennes-logo893.png?v=20221108",
+        "url": "/equipe/rennes.html"
+    },
+    {
+        "tname": "lyon",
+        "cname": "france",
+        "logo": "/image/logo/club/16/lyon-logo884.png?v=20221108",
+        "url": "/equipe/lyon.html"
+    },
+    {
+        "tname": "clermont",
+        "cname": "france",
+        "logo": "/image/logo/club/16/clermont-logo916.png?v=20221108",
+        "url": "/equipe/clermont.html"
+    },
+    {
+        "tname": "nice",
+        "cname": "france",
+        "logo": "/image/logo/club/16/nice-logo894.png?v=20221108",
+        "url": "/equipe/nice.html"
+    },
+    {
+        "tname": "lorient",
+        "cname": "france",
+        "logo": "/image/logo/club/16/lorient-logo907.png?v=20221108",
+        "url": "/equipe/lorient.html"
+    },
+    {
+        "tname": "reims",
+        "cname": "france",
+        "logo": "/image/logo/club/16/reims-logo921.png?v=20221108",
+        "url": "/equipe/reims.html"
+    },
+    {
+        "tname": "montpellier",
+        "cname": "france",
+        "logo": "/image/logo/club/16/montpellier-logo906.png?v=20221108",
+        "url": "/equipe/montpellier.html"
+    },
+    {
+        "tname": "toulouse",
+        "cname": "france",
+        "logo": "/image/logo/club/16/toulouse-logo899.png?v=20221108",
+        "url": "/equipe/toulouse.html"
+    },
+    {
+        "tname": "strasbourg",
+        "cname": "france",
+        "logo": "/image/logo/club/16/strasbourg-logo898.png?v=20221108",
+        "url": "/equipe/strasbourg.html"
+    },
+    {
+        "tname": "brest",
+        "cname": "france",
+        "logo": "/image/logo/club/16/brest-logo922.png?v=20221108",
+        "url": "/equipe/brest.html"
+    },
+    {
+        "tname": "auxerre",
+        "cname": "france",
+        "logo": "/image/logo/club/16/auxerre-logo888.png?v=20221108",
+        "url": "/equipe/auxerre.html"
+    },
+    {
+        "tname": "nantes",
+        "cname": "france",
+        "logo": "/image/logo/club/16/nantes-logo889.png?v=20221108",
+        "url": "/equipe/nantes.html"
+    },
+    {
+        "tname": "ajaccio",
+        "cname": "france",
+        "logo": "/image/logo/club/16/ajaccio-logo900.png?v=20221108",
+        "url": "/equipe/ajaccio.html"
+    },
+    {
+        "tname": "troyes",
+        "cname": "france",
+        "logo": "/image/logo/club/16/troyes-logo914.png?v=20221108",
+        "url": "/equipe/troyes.html"
+    },
+    {
+        "tname": "angers ",
+        "cname": "france",
+        "logo": "/image/logo/club/16/angers-logo918.png?v=20221108",
+        "url": "/equipe/angers.html"
+    },
+    {
+        "tname": "manchester city",
+        "cname": "angleterre",
+        "logo": "/image/logo/club/16/manchester-city-logo676.png?v=20221108",
+        "url": "/equipe/manchester-city.html"
+    },
+    {
+        "tname": "arsenal",
+        "cname": "angleterre",
+        "logo": "/image/logo/club/16/arsenal-logo660.png?v=20221108",
+        "url": "/equipe/arsenal.html"
+    },
+    {
+        "tname": "newcastle ",
+        "cname": "angleterre",
+        "logo": "/image/logo/club/16/newcastle-logo664.png?v=20221108",
+        "url": "/equipe/newcastle-united.html"
+    },
+    {
+        "tname": "manchester united",
+        "cname": "angleterre",
+        "logo": "/image/logo/club/16/manchester-united-logo662.png?v=20221108",
+        "url": "/equipe/manchester-united-662.html"
+    },
+    {
+        "tname": "liverpool",
+        "cname": "angleterre",
+        "logo": "/image/logo/club/16/liverpool-logo663.png?v=20221108",
+        "url": "/equipe/liverpool-fc.html"
+    },
+    {
+        "tname": "tottenham",
+        "cname": "angleterre",
+        "logo": "/image/logo/club/16/tottenham-logo675.png?v=20221108",
+        "url": "/equipe/tottenham.html"
+    },
+    {
+        "tname": "aston villa",
+        "cname": "angleterre",
+        "logo": "/image/logo/club/16/aston-villa-logo665.png?v=20221108",
+        "url": "/equipe/aston-villa.html"
+    },
+    {
+        "tname": "brighton ",
+        "cname": "angleterre",
+        "logo": "/image/logo/club/16/brighton-logo703.png?v=20221108",
+        "url": "/equipe/brighton.html"
+    },
+    {
+        "tname": "fulham",
+        "cname": "angleterre",
+        "logo": "/image/logo/club/16/fulham-logo667.png?v=20221108",
+        "url": "/equipe/fulham.html"
+    },
+    {
+        "tname": "brentford",
+        "cname": "angleterre",
+        "logo": "/image/logo/club/16/brentford-logo722.png?v=20221108",
+        "url": "/equipe/brentford.html"
+    },
+    {
+        "tname": "chelsea",
+        "cname": "angleterre",
+        "logo": "/image/logo/club/16/chelsea-logo661.png?v=20221108",
+        "url": "/equipe/chelsea.html"
+    },
+    {
+        "tname": "crystal palace",
+        "cname": "angleterre",
+        "logo": "/image/logo/club/16/crystal-palace-logo679.png?v=20221108",
+        "url": "/equipe/crystal-palace-679.html"
+    },
+    {
+        "tname": "wolverhampton ",
+        "cname": "angleterre",
+        "logo": "/image/logo/club/16/wolverhampton-logo680.png?v=20221108",
+        "url": "/equipe/wolverhampton-wanderers.html"
+    },
+    {
+        "tname": "bournemouth",
+        "cname": "angleterre",
+        "logo": "/image/logo/club/16/bournemouth-logo711.png?v=20221108",
+        "url": "/equipe/bournemouth.html"
+    },
+    {
+        "tname": "west ham ",
+        "cname": "angleterre",
+        "logo": "/image/logo/club/16/west-ham-logo684.png?v=20221108",
+        "url": "/equipe/west-ham-united.html"
+    },
+    {
+        "tname": "nottingham forest",
+        "cname": "angleterre",
+        "logo": "/image/logo/club/16/nottingham-forest-logo694.png?v=20221108",
+        "url": "/equipe/nottingham-forest.html"
+    },
+    {
+        "tname": "everton",
+        "cname": "angleterre",
+        "logo": "/image/logo/club/16/everton-logo674.png?v=20221108",
+        "url": "/equipe/everton.html"
+    },
+    {
+        "tname": "leeds ",
+        "cname": "angleterre",
+        "logo": "/image/logo/club/16/leeds-logo681.png?v=20221108",
+        "url": "/equipe/leeds-united.html"
+    },
+    {
+        "tname": "leicester ",
+        "cname": "angleterre",
+        "logo": "/image/logo/club/16/leicester-logo682.png?v=20221108",
+        "url": "/equipe/leicester-city.html"
+    },
+    {
+        "tname": "southampton",
+        "cname": "angleterre",
+        "logo": "/image/logo/club/16/southampton-logo670.png?v=20221108",
+        "url": "/equipe/southampton.html"
+    },
+    {
+        "tname": "barcelone",
+        "cname": "espagne",
+        "logo": "/image/logo/club/16/barcelone-logo2017.png?v=20221108",
+        "url": "/equipe/fc-barcelone.html"
+    },
+    {
+        "tname": "real madrid",
+        "cname": "espagne",
+        "logo": "/image/logo/club/16/real-madrid-logo2016.png?v=20221108",
+        "url": "/equipe/real-madrid.html"
+    },
+    {
+        "tname": "atl\u00e9tico madrid",
+        "cname": "espagne",
+        "logo": "/image/logo/club/16/atletico-madrid-logo2020.png?v=20221108",
+        "url": "/equipe/atletico-madrid.html"
+    },
+    {
+        "tname": "real sociedad",
+        "cname": "espagne",
+        "logo": "/image/logo/club/16/real-sociedad-logo2028.png?v=20221108",
+        "url": "/equipe/real-sociedad.html"
+    },
+    {
+        "tname": "villarreal",
+        "cname": "espagne",
+        "logo": "/image/logo/club/16/villarreal-logo2023.png?v=20221108",
+        "url": "/equipe/villarreal.html"
+    },
+    {
+        "tname": "real b\u00e9tis",
+        "cname": "espagne",
+        "logo": "/image/logo/club/16/real-betis-logo2025.png?v=20221108",
+        "url": "/equipe/real-betis.html"
+    },
+    {
+        "tname": "girona",
+        "cname": "espagne",
+        "logo": "/image/logo/club/16/girona-logo2101.png?v=20221108",
+        "url": "/equipe/girona.html"
+    },
+    {
+        "tname": "athletic bilbao",
+        "cname": "espagne",
+        "logo": "/image/logo/club/16/athletic-bilbao-logo2019.png?v=20221108",
+        "url": "/equipe/athletic-bilbao.html"
+    },
+    {
+        "tname": "osasuna",
+        "cname": "espagne",
+        "logo": "/image/logo/club/16/osasuna-logo2022.png?v=20221108",
+        "url": "/equipe/osasuna.html"
+    },
+    {
+        "tname": "rayo vallecano",
+        "cname": "espagne",
+        "logo": "/image/logo/club/16/rayo-vallecano-logo2054.png?v=20221108",
+        "url": "/equipe/rayo-vallecano.html"
+    },
+    {
+        "tname": "s\u00e9ville",
+        "cname": "espagne",
+        "logo": "/image/logo/club/16/seville-logo2021.png?v=20221108",
+        "url": "/equipe/fc-seville.html"
+    },
+    {
+        "tname": "majorque",
+        "cname": "espagne",
+        "logo": "/image/logo/club/16/majorque-logo2027.png?v=20221108",
+        "url": "/equipe/majorque.html"
+    },
+    {
+        "tname": "celta vigo",
+        "cname": "espagne",
+        "logo": "/image/logo/club/16/celta-vigo-logo2033.png?v=20221108",
+        "url": "/equipe/celta-vigo.html"
+    },
+    {
+        "tname": "almer\u00eda",
+        "cname": "espagne",
+        "logo": "/image/logo/club/16/almeria-logo2049.png?v=20221108",
+        "url": "/equipe/almeria.html"
+    },
+    {
+        "tname": "valence",
+        "cname": "espagne",
+        "logo": "/image/logo/club/16/valence-logo2015.png?v=20221108",
+        "url": "/equipe/valence.html"
+    },
+    {
+        "tname": "cadix",
+        "cname": "espagne",
+        "logo": "/image/logo/club/16/cadix-logo2041.png?v=20221108",
+        "url": "/equipe/cadiz.html"
+    },
+    {
+        "tname": "real valladolid",
+        "cname": "espagne",
+        "logo": "/image/logo/club/16/real-valladolid-logo2031.png?v=20221108",
+        "url": "/equipe/valladolid.html"
+    },
+    {
+        "tname": "getafe",
+        "cname": "espagne",
+        "logo": "/image/logo/club/16/getafe-logo2039.png?v=20221108",
+        "url": "/equipe/getafe.html"
+    },
+    {
+        "tname": "espanyol barcelone",
+        "cname": "espagne",
+        "logo": "/image/logo/club/16/espanyol-barcelone-logo2032.png?v=20221108",
+        "url": "/equipe/espanyol-barcelone.html"
+    },
+    {
+        "tname": "elche",
+        "cname": "espagne",
+        "logo": "/image/logo/club/16/elche-logo2043.png?v=20221108",
+        "url": "/equipe/elche.html"
+    },
+    {
+        "tname": "naples",
+        "cname": "italie",
+        "logo": "/image/logo/club/16/naples-logo1270.png?v=20221108",
+        "url": "/equipe/napoli.html"
+    },
+    {
+        "tname": "juventus turin",
+        "cname": "italie",
+        "logo": "/image/logo/club/16/juventus-turin-logo1242.png?v=20221108",
+        "url": "/equipe/juventus-de-turin.html"
+    },
+    {
+        "tname": "inter milan",
+        "cname": "italie",
+        "logo": "/image/logo/club/16/inter-milan-logo1244.png?v=20221108",
+        "url": "/equipe/inter-milan.html"
+    },
+    {
+        "tname": "lazio",
+        "cname": "italie",
+        "logo": "/image/logo/club/16/lazio-logo1245.png?v=20221108",
+        "url": "/equipe/lazio.html"
+    },
+    {
+        "tname": "ac milan",
+        "cname": "italie",
+        "logo": "/image/logo/club/16/ac-milan-logo1240.png?v=20221108",
+        "url": "/equipe/milan-ac.html"
+    },
+    {
+        "tname": "rome",
+        "cname": "italie",
+        "logo": "/image/logo/club/16/rome-logo1241.png?v=20221108",
+        "url": "/equipe/rome.html"
+    },
+    {
+        "tname": "atalanta",
+        "cname": "italie",
+        "logo": "/image/logo/club/16/atalanta-logo1255.png?v=20221108",
+        "url": "/equipe/atalanta-bergame.html"
+    },
+    {
+        "tname": "torino",
+        "cname": "italie",
+        "logo": "/image/logo/club/16/torino-logo1268.png?v=20221108",
+        "url": "/equipe/torino.html"
+    },
+    {
+        "tname": "fiorentina",
+        "cname": "italie",
+        "logo": "/image/logo/club/16/fiorentina-logo1259.png?v=20221108",
+        "url": "/equipe/fiorentina.html"
+    },
+    {
+        "tname": "udinese",
+        "cname": "italie",
+        "logo": "/image/logo/club/16/udinese-logo1246.png?v=20221108",
+        "url": "/equipe/udinese.html"
+    },
+    {
+        "tname": "bologne",
+        "cname": "italie",
+        "logo": "/image/logo/club/16/bologne-logo1249.png?v=20221108",
+        "url": "/equipe/bologne.html"
+    },
+    {
+        "tname": "monza",
+        "cname": "italie",
+        "logo": "/image/logo/club/16/monza-logo2355.png?v=20221108",
+        "url": "/equipe/monza.html"
+    },
+    {
+        "tname": "sassuolo",
+        "cname": "italie",
+        "logo": "/image/logo/club/16/sassuolo-logo5681.png?v=20221108",
+        "url": "/equipe/sassuolo.html"
+    },
+    {
+        "tname": "empoli",
+        "cname": "italie",
+        "logo": "/image/logo/club/16/empoli-logo1261.png?v=20221108",
+        "url": "/equipe/empoli.html"
+    },
+    {
+        "tname": "salernitana",
+        "cname": "italie",
+        "logo": "/image/logo/club/16/salernitana-logo1275.png?v=20221108",
+        "url": "/equipe/salernitana.html"
+    },
+    {
+        "tname": "lecce",
+        "cname": "italie",
+        "logo": "/image/logo/club/16/lecce-logo1251.png?v=20221108",
+        "url": "/equipe/lecce.html"
+    },
+    {
+        "tname": "spezia",
+        "cname": "italie",
+        "logo": "/image/logo/club/16/spezia-logo1288.png?v=20221108",
+        "url": "/equipe/spezia.html"
+    },
+    {
+        "tname": "hellas v\u00e9rone",
+        "cname": "italie",
+        "logo": "/image/logo/club/16/hellas-verone-logo1277.png?v=20221108",
+        "url": "/equipe/verone.html"
+    },
+    {
+        "tname": "cremonese",
+        "cname": "italie",
+        "logo": "/image/logo/club/16/cremonese-logo2340.png?v=20221108",
+        "url": "/equipe/cremonese.html"
+    },
+    {
+        "tname": "sampdoria",
+        "cname": "italie",
+        "logo": "/image/logo/club/16/sampdoria-logo1247.png?v=20221108",
+        "url": "/equipe/sampdoria.html"
+    },
+    {
+        "tname": "bayern munich",
+        "cname": "allemagne",
+        "logo": "/image/logo/club/16/bayern-munich-logo961.png?v=20221108",
+        "url": "/equipe/bayern-munich.html"
+    },
+    {
+        "tname": "borussia dortmund",
+        "cname": "allemagne",
+        "logo": "/image/logo/club/16/borussia-dortmund-logo964.png?v=20221108",
+        "url": "/equipe/borussia-dortmund.html"
+    },
+    {
+        "tname": "union berlin",
+        "cname": "allemagne",
+        "logo": "/image/logo/club/16/union-berlin-logo1026.png?v=20221108",
+        "url": "/equipe/union-berlin.html"
+    },
+    {
+        "tname": "rb leipzig",
+        "cname": "allemagne",
+        "logo": "/image/logo/club/16/rb-leipzig-logo13410.png?v=20221108",
+        "url": "/equipe/rb-leipzig.html"
+    },
+    {
+        "tname": "fribourg",
+        "cname": "allemagne",
+        "logo": "/image/logo/club/16/fribourg-logo970.png?v=20221108",
+        "url": "/equipe/freiburg.html"
+    },
+    {
+        "tname": "wolfsbourg",
+        "cname": "allemagne",
+        "logo": "/image/logo/club/16/wolfsbourg-logo968.png?v=20221108",
+        "url": "/equipe/wolfsburg.html"
+    },
+    {
+        "tname": "bayer leverkusen",
+        "cname": "allemagne",
+        "logo": "/image/logo/club/16/bayer-leverkusen-logo963.png?v=20221108",
+        "url": "/equipe/bayer-leverkusen.html"
+    },
+    {
+        "tname": "eintracht francfort",
+        "cname": "allemagne",
+        "logo": "/image/logo/club/16/eintracht-francfort-logo979.png?v=20221108",
+        "url": "/equipe/eintracht-francfort.html"
+    },
+    {
+        "tname": "mayence",
+        "cname": "allemagne",
+        "logo": "/image/logo/club/16/mayence-logo977.png?v=20221108",
+        "url": "/equipe/mainz.html"
+    },
+    {
+        "tname": "cologne",
+        "cname": "allemagne",
+        "logo": "/image/logo/club/16/cologne-logo980.png?v=20221108",
+        "url": "/equipe/fc-cologne.html"
+    },
+    {
+        "tname": "borussia m'gladbach",
+        "cname": "allemagne",
+        "logo": "/image/logo/club/16/borussia-m-gladbach-logo971.png?v=20221108",
+        "url": "/equipe/borussia-m-gladbach.html"
+    },
+    {
+        "tname": "werder br\u00eame",
+        "cname": "allemagne",
+        "logo": "/image/logo/club/16/werder-breme-logo960.png?v=20221108",
+        "url": "/equipe/werder-breme.html"
+    },
+    {
+        "tname": "augsbourg",
+        "cname": "allemagne",
+        "logo": "/image/logo/club/16/augsbourg-logo1000.png?v=20221108",
+        "url": "/equipe/augsburg.html"
+    },
+    {
+        "tname": "hoffenheim",
+        "cname": "allemagne",
+        "logo": "/image/logo/club/16/hoffenheim-logo1001.png?v=20221108",
+        "url": "/equipe/hoffenheim.html"
+    },
+    {
+        "tname": "bochum",
+        "cname": "allemagne",
+        "logo": "/image/logo/club/16/bochum-logo965.png?v=20221108",
+        "url": "/equipe/bochum.html"
+    },
+    {
+        "tname": "schalke 04",
+        "cname": "allemagne",
+        "logo": "/image/logo/club/16/schalke-04-logo966.png?v=20221108",
+        "url": "/equipe/schalke-04.html"
+    },
+    {
+        "tname": "stuttgart",
+        "cname": "allemagne",
+        "logo": "/image/logo/club/16/stuttgart-logo962.png?v=20221108",
+        "url": "/equipe/vfb-stuttgart.html"
+    },
+    {
+        "tname": "hertha berlin",
+        "cname": "allemagne",
+        "logo": "/image/logo/club/16/hertha-berlin-logo974.png?v=20221108",
+        "url": "/equipe/hertha-berlin.html"
+    }
+]

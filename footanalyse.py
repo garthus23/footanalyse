@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-
+import json
 import requests
 from bs4 import BeautifulSoup
 
@@ -43,8 +43,9 @@ teams2 = soup.find_all(class_='lm3_eq2')
 
 
 desiredcountrys=['/france/ligue-1/','/france/ligue-2/','/allemagne/bundesliga-1/','/angleterre/barclays-premiership-premier-league/','/italie/serie-a/','/espagne/primera-division/']
-teamdict = {}
+teamdict = [] 
 
+ind=0
 for country in countrys:
     print(country)
     currentcountry = country.a.text.lower().split(' ')[0]
@@ -58,11 +59,15 @@ for country in countrys:
     teams = soup.find_all(class_='equipe')
 
     for team in teams:
-        print(team)
         currentteam = team.text.lower()[1:]
-        teamdict[currentteam] = Team(currentcountry, currentteam)
-        teamdict[currentteam].logo=team.img['src']
-        teamdict[currentteam].url=team.a['href']
+        teamdict.append(Team(currentcountry, currentteam))
+        teamdict[ind].logo = team.img['src']
+        teamdict[ind].url = team.a['href']
+        ind += 1
 
-for key, value in teamdict.items():
+for value in teamdict:
         print(value.__dict__)
+
+with open("teaminfo.json", "w") as outfile:
+    json.dump([ob.__dict__ for ob in teamdict], outfile, indent=4, sort_keys=False)
+
