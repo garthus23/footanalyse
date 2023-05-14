@@ -68,5 +68,5 @@ for value in teamdict:
         print(value.__dict__)
 
 with open("teaminfo.json", "w") as outfile:
-    json.dump([ob.__dict__ for ob in teamdict], outfile, indent=4, sort_keys=False)
+    json.dump([ob.__dict__ for ob in teamdict], outfile, ensure_ascii=False,indent=4, sort_keys=False)
 

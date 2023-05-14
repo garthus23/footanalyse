@@ -48,16 +48,16 @@
         "url": "/equipe/clermont.html"
     },
     {
-        "tname": "nice",
-        "cname": "france",
-        "logo": "/image/logo/club/16/nice-logo894.png?v=20221108",
-        "url": "/equipe/nice.html"
-    },
-    {
         "tname": "lorient",
         "cname": "france",
         "logo": "/image/logo/club/16/lorient-logo907.png?v=20221108",
         "url": "/equipe/lorient.html"
+    },
+    {
+        "tname": "nice",
+        "cname": "france",
+        "logo": "/image/logo/club/16/nice-logo894.png?v=20221108",
+        "url": "/equipe/nice.html"
     },
     {
         "tname": "reims",
@@ -168,16 +168,16 @@
         "url": "/equipe/brighton.html"
     },
     {
-        "tname": "fulham",
-        "cname": "angleterre",
-        "logo": "/image/logo/club/16/fulham-logo667.png?v=20221108",
-        "url": "/equipe/fulham.html"
-    },
-    {
         "tname": "brentford",
         "cname": "angleterre",
         "logo": "/image/logo/club/16/brentford-logo722.png?v=20221108",
         "url": "/equipe/brentford.html"
+    },
+    {
+        "tname": "fulham",
+        "cname": "angleterre",
+        "logo": "/image/logo/club/16/fulham-logo667.png?v=20221108",
+        "url": "/equipe/fulham.html"
     },
     {
         "tname": "chelsea",
@@ -252,7 +252,7 @@
         "url": "/equipe/real-madrid.html"
     },
     {
-        "tname": "atl\u00e9tico madrid",
+        "tname": "atlético madrid",
         "cname": "espagne",
         "logo": "/image/logo/club/16/atletico-madrid-logo2020.png?v=20221108",
         "url": "/equipe/atletico-madrid.html"
@@ -270,7 +270,7 @@
         "url": "/equipe/villarreal.html"
     },
     {
-        "tname": "real b\u00e9tis",
+        "tname": "real bétis",
         "cname": "espagne",
         "logo": "/image/logo/club/16/real-betis-logo2025.png?v=20221108",
         "url": "/equipe/real-betis.html"
@@ -300,7 +300,7 @@
         "url": "/equipe/rayo-vallecano.html"
     },
     {
-        "tname": "s\u00e9ville",
+        "tname": "séville",
         "cname": "espagne",
         "logo": "/image/logo/club/16/seville-logo2021.png?v=20221108",
         "url": "/equipe/fc-seville.html"
@@ -318,16 +318,16 @@
         "url": "/equipe/celta-vigo.html"
     },
     {
-        "tname": "almer\u00eda",
-        "cname": "espagne",
-        "logo": "/image/logo/club/16/almeria-logo2049.png?v=20221108",
-        "url": "/equipe/almeria.html"
-    },
-    {
         "tname": "valence",
         "cname": "espagne",
         "logo": "/image/logo/club/16/valence-logo2015.png?v=20221108",
         "url": "/equipe/valence.html"
+    },
+    {
+        "tname": "almería",
+        "cname": "espagne",
+        "logo": "/image/logo/club/16/almeria-logo2049.png?v=20221108",
+        "url": "/equipe/almeria.html"
     },
     {
         "tname": "cadix",
@@ -402,22 +402,22 @@
         "url": "/equipe/atalanta-bergame.html"
     },
     {
-        "tname": "torino",
-        "cname": "italie",
-        "logo": "/image/logo/club/16/torino-logo1268.png?v=20221108",
-        "url": "/equipe/torino.html"
-    },
-    {
         "tname": "fiorentina",
         "cname": "italie",
         "logo": "/image/logo/club/16/fiorentina-logo1259.png?v=20221108",
         "url": "/equipe/fiorentina.html"
     },
     {
-        "tname": "udinese",
+        "tname": "monza",
         "cname": "italie",
-        "logo": "/image/logo/club/16/udinese-logo1246.png?v=20221108",
-        "url": "/equipe/udinese.html"
+        "logo": "/image/logo/club/16/monza-logo2355.png?v=20221108",
+        "url": "/equipe/monza.html"
+    },
+    {
+        "tname": "torino",
+        "cname": "italie",
+        "logo": "/image/logo/club/16/torino-logo1268.png?v=20221108",
+        "url": "/equipe/torino.html"
     },
     {
         "tname": "bologne",
@@ -426,10 +426,10 @@
         "url": "/equipe/bologne.html"
     },
     {
-        "tname": "monza",
+        "tname": "udinese",
         "cname": "italie",
-        "logo": "/image/logo/club/16/monza-logo2355.png?v=20221108",
-        "url": "/equipe/monza.html"
+        "logo": "/image/logo/club/16/udinese-logo1246.png?v=20221108",
+        "url": "/equipe/udinese.html"
     },
     {
         "tname": "sassuolo",
@@ -462,7 +462,7 @@
         "url": "/equipe/spezia.html"
     },
     {
-        "tname": "hellas v\u00e9rone",
+        "tname": "hellas vérone",
         "cname": "italie",
         "logo": "/image/logo/club/16/hellas-verone-logo1277.png?v=20221108",
         "url": "/equipe/verone.html"
@@ -546,7 +546,7 @@
         "url": "/equipe/borussia-m-gladbach.html"
     },
     {
-        "tname": "werder br\u00eame",
+        "tname": "werder brême",
         "cname": "allemagne",
         "logo": "/image/logo/club/16/werder-breme-logo960.png?v=20221108",
         "url": "/equipe/werder-breme.html"
