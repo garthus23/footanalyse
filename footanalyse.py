@@ -19,6 +19,9 @@ class Team(Country):
         self.tname = tname
         Country.__init__(self, cname)
 
+    def logo(self, logo):
+        self.logo = logo
+
     def __repr__(self):
         print("Hello {}".format(self.tname))
 
@@ -27,32 +30,34 @@ class Team(Country):
 
 session = requests.Session()
 r = session.get('https://www.matchendirect.fr')
+soup = BeautifulSoup(r.content, 'html.parser')
 
-with open('tmp/matchlist', 'w') as fd:
-    fd.write(r.text)
-
-
-with open('tmp/matchlist') as fp:
-    soup = BeautifulSoup(fp, 'html.parser')
 
 countrys = soup.find_all(class_='lienCompetition')
 hours = soup.find_all(class_='lm1')
 teams1 = soup.find_all(class_='lm3_eq1')
 teams2 = soup.find_all(class_='lm3_eq2')
 
+
+desiredcountrys=['/france/ligue-1/','/france/ligue-2/','/allemagne/bundesliga-1/','/angleterre/barclays-premiership-premier-league/','/italie/serie-a/','/espagne/primera-division/']
 teamdict = {}
 
 for country in countrys:
-    r = session.get("https://www.matchendirect.fr/{}".format(country.a['href']))
-    with open ('tmp/teamlist', 'w') as fd:
-        fd.write(r.text)
-
+    print(country)
     currentcountry = country.a.text.lower().split(' ')[0]
+    if country.a['href'] in desiredcountrys:
+        r = session.get("https://www.matchendirect.fr/{}".format(country.a['href']))
+    else:
+        continue
 
-    with open('tmp/teamlist') as fp:
-        soup = BeautifulSoup(fp, 'html.parser')
-        teams = soup.find_all(class_='equipe')
+
+    soup = BeautifulSoup(r.content, 'html.parser')
+    teams = soup.find_all(class_='equipe')
 
     for team in teams:
         currentteam = team.text.lower()[1:]
         teamdict[currentteam] = Team(currentcountry, currentteam)
+        teamdict[currentteam].logo=team.img['src']
+
+for key, value in teamdict.items():
+        print(value.__dict__)

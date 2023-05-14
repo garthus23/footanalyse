@@ -5,9 +5,9 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" /> <!-- content="width=device-width, initial-scale=1"> -->
 
-<title>R&eacute;sultats S&uuml;per Lig en direct : scores des matchs de championnat turc</title>
-<meta name="keywords" content="S&uuml;per Lig, scores S&uuml;per Lig, foot S&uuml;per Lig, live foot, score en direct de S&uuml;per Lig, live score Turquie, resultat foot Semaine 19/2023, scores en direct" />
-<meta name="description" content="Super Lig en direct : suivez tous les scores des matches de championnat turc en live. Ne manquez plus un match Super Lig grace a notre livescore de football turc"/>
+<title>R&eacute;sultats Liga Adelante en direct : scores des matchs de championnat espagnol</title>
+<meta name="keywords" content="Liga Adelante, scores Liga Adelante, foot Liga Adelante, live foot, score en direct de Liga Adelante, live score Espagne, resultat foot Semaine 19/2023, scores en direct" />
+<meta name="description" content="Liga Adelante en direct : suivez tous les scores des matches de championnat espagnol en live. Ne manquez plus un match Liga Adelante grace a notre livescore de football espagnol"/>
 <meta name="y_key" content="1a9bd6d3b4223b5a"/>
 <meta name="verify-v1" content="H30g3QlZj0Cf7XMTWcstfhHrSFytUrjs3MAQ9SI7M0c="/>
 <meta name="google-site-verification" content="249oP_EyqS1fiKYsjaAtY2w1s6AGlWtv_EcO2ed42Q0"/>
@@ -19,18 +19,18 @@
 <meta property="fb:admins" content="779024660"/>
 <meta property="og:type" content="sport"/>
 <meta property="og:site_name" content="MatchEnDirect.fr"/>
-<meta property="og:url" content="https://www.matchendirect.fr/turquie/super-lig/"/>
-<meta property="og:title" content="R&eacute;sultats S&uuml;per Lig en direct"/>
-<meta property="og:description" content="Super Lig en direct : suivez tous les scores des matches de championnat turc en live. Ne manquez plus un match Super Lig grace a notre livescore de football turc"/>
-<meta property="og:image" content="//www.matchendirect.fr/image/logo/competition/90/super-lig-logo19.png?v=1"/>
+<meta property="og:url" content="https://www.matchendirect.fr/espagne/segunda-division-liga-adelante/"/>
+<meta property="og:title" content="R&eacute;sultats Liga Adelante en direct"/>
+<meta property="og:description" content="Liga Adelante en direct : suivez tous les scores des matches de championnat espagnol en live. Ne manquez plus un match Liga Adelante grace a notre livescore de football espagnol"/>
+<meta property="og:image" content="//www.matchendirect.fr/image/logo/pays/90/espagne-logo176.png"/>
 <meta name="version" content="git"/>
 
 <!-- Twitter -->
 <meta property="twitter:card" content="summary_large_image">
-<meta property="twitter:url" content="https://www.matchendirect.fr/turquie/super-lig/">
-<meta property="twitter:title" content="R&eacute;sultats S&uuml;per Lig en direct">
-<meta property="twitter:description" content="Super Lig en direct : suivez tous les scores des matches de championnat turc en live. Ne manquez plus un match Super Lig grace a notre livescore de football turc">
-<meta property="twitter:image" content="//www.matchendirect.fr/image/logo/competition/90/super-lig-logo19.png?v=1">
+<meta property="twitter:url" content="https://www.matchendirect.fr/espagne/segunda-division-liga-adelante/">
+<meta property="twitter:title" content="R&eacute;sultats Liga Adelante en direct">
+<meta property="twitter:description" content="Liga Adelante en direct : suivez tous les scores des matches de championnat espagnol en live. Ne manquez plus un match Liga Adelante grace a notre livescore de football espagnol">
+<meta property="twitter:image" content="//www.matchendirect.fr/image/logo/pays/90/espagne-logo176.png">
 <!-- Schema.org -->
     <meta http-equiv="refresh" content="420">
     <!-- <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' /> -->
@@ -253,7 +253,7 @@
 
 
     <script>
-                var $data = {"connected":false,"ads":{"central":{"third_paty_partners":null,"type":null},"dugout":false},"domain":{"asset":"https:\/\/asset.matchendirect.fr"},"blueKaiParams":{"page_primary_tag":"S\u00fcper Lig","page_type":"live"}};
+                var $data = {"connected":false,"ads":{"central":{"third_paty_partners":null,"type":null},"dugout":false},"domain":{"asset":"https:\/\/asset.matchendirect.fr"},"blueKaiParams":{"page_primary_tag":"Liga Adelante","page_type":"live"}};
                 </script>
 
     <script>
@@ -470,17 +470,17 @@ ga('send', 'pageview');
             <li><a href="/resultat-foot-13-05-2023/" title="Consultez les résultats d'hier">Hier</a></li>
 <li><a href="/" title="Suivez les matchs du jour">Aujourd'hui</a></li>
 <li><a href="/resultat-foot-15-05-2023/" title="Découvrez le programme de demain">Demain</a></li>
-<li><a href="/live-score/" title="Suivez les matchs en direct">En direct <span class="badge">43</span></a></li>
+<li><a href="/live-score/" title="Suivez les matchs en direct">En direct <span class="badge">41</span></a></li>
 <!--<li><a href="/selection/" title="Sélectionnez vos matchs">Mes matchs</a></li>-->
 <li class="liCotes"><a href="/cotes/" title="Livescore Cotes Football Parion EnLigne" id="aCotes">Cotes <span class="badge-cotes"></span></a></li>
-<li class="isFrench pariez hideOnMobile"><a href="https://run.admost.com/adx/goto.ashx?pbk=481429-335852-59404" target="_blank" rel="nofollow" title="Parier" data-name="top_menu" class="clicBookxXx adkeyTopMenu">Bonus 100€</a></li>
+<li class="isFrench pariez hideOnMobile"><a href="https://run.admost.com/adx/goto.ashx?pbk=481421-335839-58193" target="_blank" rel="nofollow" title="Parier" data-name="top_menu" class="clicBookxXx adkeyTopMenu">Bonus 100€</a></li>
 <li class="isIos"><a href="https://app.adjust.com/cw5winj" target="_blank" rel="nofollow" title="Télécharger dans l'App Store">
     <img src="/image/commun/app/ios-h25.png" loading="lazy" width="84" height="25" alt="image">
 </a></li>
 <li class="isAndroid"><a href="https://app.adjust.com/cw5winj" target="_blank" rel="nofollow" title="Disponible sur Google Play" class="isAndroid">
     <img src="/image/commun/app/android-h25.png" loading="lazy" width="84" height="25" alt="image">
 </a></li>
-<li class="isFrench ltv"><a href="https://run.admost.com/adx/goto.ashx?pbk=481436-335845-59808" target="_blank" rel="nofollow" title="Jouer sur Parions Sport" data-name="ltv" class="clicBookxXx adkeyLtv">J'ai un compte <img src="https://asset.matchendirect.fr/image/bookmaker/parionsweb/comp-parionsweb.png" width="123" height="20" alt="img parionad"></a></li>
+<li class="isFrench ltv"><a href="https://run.admost.com/adx/goto.ashx?pbk=481414-335832-59229" target="_blank" rel="nofollow" title="Jouer sur Parions Sport" data-name="ltv" class="clicBookxXx adkeyLtv">J'ai un compte <img src="https://asset.matchendirect.fr/image/bookmaker/parionsweb/comp-parionsweb.png" width="123" height="20" alt="img parionad"></a></li>
 
 <style>
     @media (max-width: 768px) {
@@ -615,7 +615,7 @@ ga('send', 'pageview');
     <div class="menu_haut">
         
             <ol class="breadcrumb">
-                <li><a href="/" title="MatchEnDirect Livescores" aria-label="Match En Direct Livescores"><span class="glyphicon glyphicon-home" aria-hidden="true"></span></a> &nbsp; <a href="/" class="navHomeText">Match en Direct</a></li><li><a href="/turquie/">Turquie</a></li><li><h1>Süper Lig</h1></li>
+                <li><a href="/" title="MatchEnDirect Livescores" aria-label="Match En Direct Livescores"><span class="glyphicon glyphicon-home" aria-hidden="true"></span></a> &nbsp; <a href="/" class="navHomeText">Match en Direct</a></li><li><a href="/espagne/">Espagne</a></li><li><h1>Liga Adelante</h1></li>
             </ol>
 
         <!-- <div id="countdownCol" class="text-center" style="margin-bottom: 15px; float: left; width: 100%;">
@@ -626,7 +626,7 @@ ga('send', 'pageview');
             </p>
         </div> -->
 
-        <a href="https://www.matchendirect.fr/rss/foot-super-lig-c19.xml" target="_blank" title="Flux RSS Süper Lig" class="ico_btn_rss"></a>
+        <a href="https://www.matchendirect.fr/rss/foot-segunda-division-liga-adelante-c12.xml" target="_blank" title="Flux RSS Liga Adelante" class="ico_btn_rss"></a>
         <div class="comments">
             <button class="btn btn-primary"><span class="glyphicon glyphicon-comment" aria-hidden="true"></span> &nbsp;&nbsp;
                 <div id="bloc_nb_commenaire"></div>
@@ -720,19 +720,19 @@ ga('send', 'pageview');
             
 
 <div id="navWeek">
-	<div class="logo"><img src="/image/logo/competition/90/super-lig-logo19.png?v=1" width="90" alt="Résultats Süper Lig" class="img-rounded" /></div>
+	<div class="logo"><img src="/image/logo/pays/90/espagne-logo176.png" width="90" height="90" alt="Matchs en direct Espagne" /></div>
 	<div class="listSelect">
 		<div class="filter">
-			<div class="filterDiv country"><div class="  objselect_no_nav"><select class="form-control objselect_liste" name="f_pays" aria-label="f_pays" onChange="location.href = this.value;"><optgroup label="TOP 1"><option value="/france/">France</option><option value="/angleterre/">Angleterre</option><option value="/espagne/">Espagne</option><option value="/italie/">Italie</option><option value="/allemagne/">Allemagne</option><option value="/portugal/">Portugal</option><option value="/algerie/">Algérie</option><option value="/pays-bas/">Pays-Bas</option><option value="/ecosse/">Écosse</option><option value="/turquie/" selected class="selection">Turquie</option><option value="/belgique/">Belgique</option><option value="/bresil/">Brésil</option><option value="/maroc/">Maroc</option><option value="/senegal/">Sénégal</option></optgroup><optgroup label="TOP 2"><option value="/etats-unis/">Etats-Unis</option><option value="/afghanistan/">Afghanistan</option><option value="/afrique-du-sud/">Afrique du Sud</option><option value="/albanie/">Albanie</option><option value="/andorre/">Andorre</option><option value="/angola/">Angola</option><option value="/antigua-et-barbuda/">Antigua-et-Barbuda</option><option value="/arabie-saoudite/">Arabie Saoudite</option><option value="/argentine/">Argentine</option><option value="/armenie/">Arménie</option><option value="/aruba/">Aruba</option><option value="/republique-de-macedoine/">ARY Macédoine</option><option value="/australie/">Australie</option><option value="/autriche/">Autriche</option><option value="/azerbaidjan/">Azerbaïdjan</option><option value="/bahamas/">Bahamas</option><option value="/bahrein/">Bahreïn</option><option value="/bangladesh/">Bangladesh</option><option value="/barbade/">Barbade</option><option value="/bielorussie/">Bélarus</option><option value="/belize/">Belize</option><option value="/benin/">Bénin</option><option value="/bermudes/">Bermudes</option><option value="/bhoutan/">Bhoutan</option><option value="/bolivie/">Bolivie</option><option value="/bonaire/">Bonaire</option><option value="/bosnie/">Bosnie-Herzégovine</option><option value="/botswana/">Botswana</option><option value="/brunei/">Brunei</option><option value="/bulgarie/">Bulgarie</option><option value="/burkina-faso/">Burkina Faso</option><option value="/burundi/">Burundi</option><option value="/cambodge/">Cambodge</option><option value="/cameroun/">Cameroun</option><option value="/canada/">Canada</option><option value="/cape-verde/">Cap-Vert</option><option value="/chili/">Chili</option><option value="/chine/">Chine</option><option value="/chypre/">Chypre</option><option value="/colombie/">Colombie</option><option value="/congo/">Congo</option><option value="/republique-de-coree/">Corée du Sud</option><option value="/costa-rica/">Costa Rica</option><option value="/cote-d-ivoire/">Côte d'Ivoire</option><option value="/croatie/">Croatie</option><option value="/cuba/">Cuba</option><option value="/curacao/">Curaçao</option><option value="/danemark/">Danemark</option><option value="/djibouti/">Djibouti</option><option value="/dominique/">Dominique</option><option value="/egypte/">Égypte</option><option value="/el-salvador/">El Salvador</option><option value="/emirats-arabes-unis/">Émirats Arabes Unis</option><option value="/equateur/">Équateur</option><option value="/estonie/">Estonie</option><option value="/etheopie/">Éthiopie</option><option value="/fidji/">Fidji</option><option value="/finlande/">Finlande</option><option value="/gabon/">Gabon</option><option value="/gambie/">Gambie</option><option value="/georgie/">Géorgie</option><option value="/ghana/">Ghana</option><option value="/gibraltar/">Gibraltar</option><option value="/grece/">Grèce</option><option value="/grenade/">Grenade</option><option value="/guadaloupe/">Guadeloupe</option><option value="/guam/">Guam</option><option value="/guatemala/">Guatemala</option><option value="/guinee/">Guinée</option><option value="/guyane/">Guyana</option><option value="/guyane-francaise/">Guyane Française</option><option value="/haiti/">Haïti</option><option value="/honduras/">Honduras</option><option value="/hong-kong/">Hong Kong</option><option value="/hongrie/">Hongrie</option><option value="/iles-caimans/">Îles Caïmans</option><option value="/iles-cook/">Îles Cook</option><option value="/iles-feroe/">Îles Féroé</option><option value="/iles-salomon/">Îles Salomon</option><option value="/iles-vierges-britanniques/">Îles Vierges Britanniques</option><option value="/inde/">Inde</option><option value="/indonesie/">Indonésie</option><option value="/iran/">Iran</option><option value="/irak/">Iraq</option><option value="/irlande/">Irlande</option><option value="/irlande-du-nord/">Irlande du Nord</option><option value="/islande/">Islande</option><option value="/israel/">Israël</option><option value="/jamaique/">Jamaïque</option><option value="/japon/">Japon</option><option value="/jordanie/">Jordanie</option><option value="/kazakhstan/">Kazakhstan</option><option value="/kenya/">Kenya</option><option value="/kirghizistan/">Kirghizistan</option><option value="/kosovo/">Kosovo</option><option value="/koweit/">Koweït</option><option value="/laos/">Laos</option><option value="/lesotho/">Lesotho</option><option value="/lettonie/">Lettonie</option><option value="/liban/">Liban</option><option value="/liberia/">Liberia</option><option value="/libye/">Libye</option><option value="/liechtenstein/">Liechtenstein</option><option value="/lituanie/">Lituanie</option><option value="/luxembourg/">Luxembourg</option><option value="/macao/">Macao</option><option value="/madagascar/">Madagascar</option><option value="/malaisie/">Malaisie</option><option value="/malawi/">Malawi</option><option value="/maldives/">Maldives</option><option value="/mali/">Mali</option><option value="/malte/">Malte</option><option value="/martinique/">Martinique</option><option value="/maurice/">Maurice</option><option value="/mauritanie/">Mauritanie</option><option value="/mexique/">Mexique</option><option value="/moldavie/">Moldavie</option><option value="/mongolie/">Mongolie</option><option value="/montenegro/">Monténégro</option><option value="/mozambique/">Mozambique</option><option value="/birmanie/">Myanmar</option><option value="/namibie/">Namibie</option><option value="/nepal/">Népal</option><option value="/nicaragua/">Nicaragua</option><option value="/niger/">Niger</option><option value="/nigeria/">Nigeria</option><option value="/norvege/">Norvège</option><option value="/nouvelle-caledonie/">Nouvelle-Calédonie</option><option value="/nouvelle-zelande/">Nouvelle-Zélande</option><option value="/oman/">Oman</option><option value="/ouganda/">Ouganda</option><option value="/uzbekistan/">Ouzbékistan</option><option value="/pakistan/">Pakistan</option><option value="/palestine/">Palestine</option><option value="/panama/">Panama</option><option value="/papouasie-nouvelle-guinee/">Papouasie-Nouvelle-Guinée</option><option value="/paraguay/">Paraguay</option><option value="/pays-de-galles/">Pays de Galles</option><option value="/perou/">Pérou</option><option value="/philippines/">Philippines</option><option value="/pologne/">Pologne</option><option value="/puerto-rico/">Porto Rico</option><option value="/qatar/">Qatar</option><option value="/republique-democrate-du-congo/">République Démocrate du Congo</option><option value="/republique-dominicaine/">République Dominicaine</option><option value="/republique-tcheque/">République Tchèque</option><option value="/reunion/">Réunion</option><option value="/roumanie/">Roumanie</option><option value="/federation-de-russie/">Russie</option><option value="/rwanda/">Rwanda</option><option value="/saint-kitts-et-nevis/">Saint-Kitts-et-Nevis</option><option value="/saint-marin/">Saint-Marin</option><option value="/samoa/">Samoa</option><option value="/samoa-americaines/">Samoa américaines</option><option value="/sao-tome-e-principe/">Sao Tomé e Principe</option><option value="/serbie/">Serbie</option><option value="/seychelles/">Seychelles</option><option value="/sierra-leone/">Sierra Leone</option><option value="/singapour/">Singapour</option><option value="/slovaquie/">Slovaquie</option><option value="/slovenie/">Slovénie</option><option value="/somalie/">Somalie</option><option value="/sudan/">Soudan</option><option value="/sri-lanka/">Sri Lanka</option><option value="/suede/">Suède</option><option value="/suisse/">Suisse</option><option value="/surinam/">Suriname</option><option value="/swaziland/">Swaziland</option><option value="/syrie/">Syrie</option><option value="/tajikistan/">Tadjikistan</option><option value="/tahiti/">Tahiti</option><option value="/taiwan/">Taïwan</option><option value="/tanzanie/">Tanzanie</option><option value="/chad/">Tchad</option><option value="/thailande/">Thaïlande</option><option value="/togo/">Togo</option><option value="/trinite-et-tobago/">Trinité-et-Tobago</option><option value="/tunisie/">Tunisie</option><option value="/turkmenistan/">Turkménistan</option><option value="/turks-et-caicos/">Turks et Caïcos</option><option value="/tuvalu/">Tuvalu</option><option value="/ukraine/">Ukraine</option><option value="/uruguay/">Uruguay</option><option value="/vanuatu/">Vanuatu</option><option value="/venezuela/">Venezuela</option><option value="/vietnam/">Viêt-Nam</option><option value="/yemen/">Yémen</option><option value="/zambie/">Zambie</option><option value="/zimbabwe/">Zimbabwe</option></optgroup><optgroup label="TOP 3"><option value="/afrique/">Afrique</option><option value="/amerique-du-nord/">Amérique du Nord</option><option value="/amerique-du-sud/">Amérique du Sud</option><option value="/asie/">Asie</option><option value="/europe/">Europe</option><option value="/oceanie/">Océanie</option><option value="/monde/">Monde</option></optgroup></select></div></div>
-			<div class="filterDiv competition"><div class="  objselect_no_nav"><select class="form-control objselect_liste" name="f_competition" aria-label="f_competition" onChange="location.href = this.value;"><option value="/turquie/">Toutes les compétitions</option><option value="/turquie/super-lig/" selected class="selection">Süper Lig</option><option value="/turquie/bank-asya-1-lig/">Lig A</option><option value="/turquie/lig-b/">Lig B</option><option value="/turquie/3-lig/">3. Lig</option><option value="/turquie/bolgesel-amator-lig/">Bölgesel Amatör Lig</option><option value="/turquie/national-cup-finale/">Coupe de Turquie</option><option value="/turquie/spor-toto-cup/">Spor Toto Cup</option><option value="/turquie/supercup/">Super Coupe</option><option value="/turquie/u21-super-lig/">U21 Süper Lig</option><option value="/turquie/u19-elit-ligi/">U19 Elit Ligi</option><option value="/turquie/u21-1-lig/">U21 1. Lig</option><option value="/turquie/u18-elit-ligi/">U18 Elit Ligi</option><option value="/turquie/u19-1-lig/">U19 1. Lig</option><option value="/turquie/akademi-ligleri/">Akademi Ligleri</option><option value="/turquie/u21-super-cup/">U21 Super Cup</option><option value="/turquie/u19-super-cup/">U19 Super Cup</option><option value="/turquie/bayanlar-ligi/">Bayanlar Ligi</option><option value="/turquie/kadinlar-2-ligi/">Kadinlar 2. Ligi </option><option value="/turquie/a2-ligi-reserve/">A2 Ligi (Reserve)</option><option value="/turquie/kadin-1-ligi/">Kadın 1. Ligi</option><option value="/turquie/tsyd-cup/">TSYD Cup</option></select></div></div>
+			<div class="filterDiv country"><div class="  objselect_no_nav"><select class="form-control objselect_liste" name="f_pays" aria-label="f_pays" onChange="location.href = this.value;"><optgroup label="TOP 1"><option value="/france/">France</option><option value="/angleterre/">Angleterre</option><option value="/espagne/" selected class="selection">Espagne</option><option value="/italie/">Italie</option><option value="/allemagne/">Allemagne</option><option value="/portugal/">Portugal</option><option value="/algerie/">Algérie</option><option value="/pays-bas/">Pays-Bas</option><option value="/ecosse/">Écosse</option><option value="/turquie/">Turquie</option><option value="/belgique/">Belgique</option><option value="/bresil/">Brésil</option><option value="/maroc/">Maroc</option><option value="/senegal/">Sénégal</option></optgroup><optgroup label="TOP 2"><option value="/etats-unis/">Etats-Unis</option><option value="/afghanistan/">Afghanistan</option><option value="/afrique-du-sud/">Afrique du Sud</option><option value="/albanie/">Albanie</option><option value="/andorre/">Andorre</option><option value="/angola/">Angola</option><option value="/antigua-et-barbuda/">Antigua-et-Barbuda</option><option value="/arabie-saoudite/">Arabie Saoudite</option><option value="/argentine/">Argentine</option><option value="/armenie/">Arménie</option><option value="/aruba/">Aruba</option><option value="/republique-de-macedoine/">ARY Macédoine</option><option value="/australie/">Australie</option><option value="/autriche/">Autriche</option><option value="/azerbaidjan/">Azerbaïdjan</option><option value="/bahamas/">Bahamas</option><option value="/bahrein/">Bahreïn</option><option value="/bangladesh/">Bangladesh</option><option value="/barbade/">Barbade</option><option value="/bielorussie/">Bélarus</option><option value="/belize/">Belize</option><option value="/benin/">Bénin</option><option value="/bermudes/">Bermudes</option><option value="/bhoutan/">Bhoutan</option><option value="/bolivie/">Bolivie</option><option value="/bonaire/">Bonaire</option><option value="/bosnie/">Bosnie-Herzégovine</option><option value="/botswana/">Botswana</option><option value="/brunei/">Brunei</option><option value="/bulgarie/">Bulgarie</option><option value="/burkina-faso/">Burkina Faso</option><option value="/burundi/">Burundi</option><option value="/cambodge/">Cambodge</option><option value="/cameroun/">Cameroun</option><option value="/canada/">Canada</option><option value="/cape-verde/">Cap-Vert</option><option value="/chili/">Chili</option><option value="/chine/">Chine</option><option value="/chypre/">Chypre</option><option value="/colombie/">Colombie</option><option value="/congo/">Congo</option><option value="/republique-de-coree/">Corée du Sud</option><option value="/costa-rica/">Costa Rica</option><option value="/cote-d-ivoire/">Côte d'Ivoire</option><option value="/croatie/">Croatie</option><option value="/cuba/">Cuba</option><option value="/curacao/">Curaçao</option><option value="/danemark/">Danemark</option><option value="/djibouti/">Djibouti</option><option value="/dominique/">Dominique</option><option value="/egypte/">Égypte</option><option value="/el-salvador/">El Salvador</option><option value="/emirats-arabes-unis/">Émirats Arabes Unis</option><option value="/equateur/">Équateur</option><option value="/estonie/">Estonie</option><option value="/etheopie/">Éthiopie</option><option value="/fidji/">Fidji</option><option value="/finlande/">Finlande</option><option value="/gabon/">Gabon</option><option value="/gambie/">Gambie</option><option value="/georgie/">Géorgie</option><option value="/ghana/">Ghana</option><option value="/gibraltar/">Gibraltar</option><option value="/grece/">Grèce</option><option value="/grenade/">Grenade</option><option value="/guadaloupe/">Guadeloupe</option><option value="/guam/">Guam</option><option value="/guatemala/">Guatemala</option><option value="/guinee/">Guinée</option><option value="/guyane/">Guyana</option><option value="/guyane-francaise/">Guyane Française</option><option value="/haiti/">Haïti</option><option value="/honduras/">Honduras</option><option value="/hong-kong/">Hong Kong</option><option value="/hongrie/">Hongrie</option><option value="/iles-caimans/">Îles Caïmans</option><option value="/iles-cook/">Îles Cook</option><option value="/iles-feroe/">Îles Féroé</option><option value="/iles-salomon/">Îles Salomon</option><option value="/iles-vierges-britanniques/">Îles Vierges Britanniques</option><option value="/inde/">Inde</option><option value="/indonesie/">Indonésie</option><option value="/iran/">Iran</option><option value="/irak/">Iraq</option><option value="/irlande/">Irlande</option><option value="/irlande-du-nord/">Irlande du Nord</option><option value="/islande/">Islande</option><option value="/israel/">Israël</option><option value="/jamaique/">Jamaïque</option><option value="/japon/">Japon</option><option value="/jordanie/">Jordanie</option><option value="/kazakhstan/">Kazakhstan</option><option value="/kenya/">Kenya</option><option value="/kirghizistan/">Kirghizistan</option><option value="/kosovo/">Kosovo</option><option value="/koweit/">Koweït</option><option value="/laos/">Laos</option><option value="/lesotho/">Lesotho</option><option value="/lettonie/">Lettonie</option><option value="/liban/">Liban</option><option value="/liberia/">Liberia</option><option value="/libye/">Libye</option><option value="/liechtenstein/">Liechtenstein</option><option value="/lituanie/">Lituanie</option><option value="/luxembourg/">Luxembourg</option><option value="/macao/">Macao</option><option value="/madagascar/">Madagascar</option><option value="/malaisie/">Malaisie</option><option value="/malawi/">Malawi</option><option value="/maldives/">Maldives</option><option value="/mali/">Mali</option><option value="/malte/">Malte</option><option value="/martinique/">Martinique</option><option value="/maurice/">Maurice</option><option value="/mauritanie/">Mauritanie</option><option value="/mexique/">Mexique</option><option value="/moldavie/">Moldavie</option><option value="/mongolie/">Mongolie</option><option value="/montenegro/">Monténégro</option><option value="/mozambique/">Mozambique</option><option value="/birmanie/">Myanmar</option><option value="/namibie/">Namibie</option><option value="/nepal/">Népal</option><option value="/nicaragua/">Nicaragua</option><option value="/niger/">Niger</option><option value="/nigeria/">Nigeria</option><option value="/norvege/">Norvège</option><option value="/nouvelle-caledonie/">Nouvelle-Calédonie</option><option value="/nouvelle-zelande/">Nouvelle-Zélande</option><option value="/oman/">Oman</option><option value="/ouganda/">Ouganda</option><option value="/uzbekistan/">Ouzbékistan</option><option value="/pakistan/">Pakistan</option><option value="/palestine/">Palestine</option><option value="/panama/">Panama</option><option value="/papouasie-nouvelle-guinee/">Papouasie-Nouvelle-Guinée</option><option value="/paraguay/">Paraguay</option><option value="/pays-de-galles/">Pays de Galles</option><option value="/perou/">Pérou</option><option value="/philippines/">Philippines</option><option value="/pologne/">Pologne</option><option value="/puerto-rico/">Porto Rico</option><option value="/qatar/">Qatar</option><option value="/republique-democrate-du-congo/">République Démocrate du Congo</option><option value="/republique-dominicaine/">République Dominicaine</option><option value="/republique-tcheque/">République Tchèque</option><option value="/reunion/">Réunion</option><option value="/roumanie/">Roumanie</option><option value="/federation-de-russie/">Russie</option><option value="/rwanda/">Rwanda</option><option value="/saint-kitts-et-nevis/">Saint-Kitts-et-Nevis</option><option value="/saint-marin/">Saint-Marin</option><option value="/samoa/">Samoa</option><option value="/samoa-americaines/">Samoa américaines</option><option value="/sao-tome-e-principe/">Sao Tomé e Principe</option><option value="/serbie/">Serbie</option><option value="/seychelles/">Seychelles</option><option value="/sierra-leone/">Sierra Leone</option><option value="/singapour/">Singapour</option><option value="/slovaquie/">Slovaquie</option><option value="/slovenie/">Slovénie</option><option value="/somalie/">Somalie</option><option value="/sudan/">Soudan</option><option value="/sri-lanka/">Sri Lanka</option><option value="/suede/">Suède</option><option value="/suisse/">Suisse</option><option value="/surinam/">Suriname</option><option value="/swaziland/">Swaziland</option><option value="/syrie/">Syrie</option><option value="/tajikistan/">Tadjikistan</option><option value="/tahiti/">Tahiti</option><option value="/taiwan/">Taïwan</option><option value="/tanzanie/">Tanzanie</option><option value="/chad/">Tchad</option><option value="/thailande/">Thaïlande</option><option value="/togo/">Togo</option><option value="/trinite-et-tobago/">Trinité-et-Tobago</option><option value="/tunisie/">Tunisie</option><option value="/turkmenistan/">Turkménistan</option><option value="/turks-et-caicos/">Turks et Caïcos</option><option value="/tuvalu/">Tuvalu</option><option value="/ukraine/">Ukraine</option><option value="/uruguay/">Uruguay</option><option value="/vanuatu/">Vanuatu</option><option value="/venezuela/">Venezuela</option><option value="/vietnam/">Viêt-Nam</option><option value="/yemen/">Yémen</option><option value="/zambie/">Zambie</option><option value="/zimbabwe/">Zimbabwe</option></optgroup><optgroup label="TOP 3"><option value="/afrique/">Afrique</option><option value="/amerique-du-nord/">Amérique du Nord</option><option value="/amerique-du-sud/">Amérique du Sud</option><option value="/asie/">Asie</option><option value="/europe/">Europe</option><option value="/oceanie/">Océanie</option><option value="/monde/">Monde</option></optgroup></select></div></div>
+			<div class="filterDiv competition"><div class="  objselect_no_nav"><select class="form-control objselect_liste" name="f_competition" aria-label="f_competition" onChange="location.href = this.value;"><option value="/espagne/">Toutes les compétitions</option><option value="/espagne/primera-division/">Liga BBVA</option><option value="/espagne/segunda-division-liga-adelante/" selected class="selection">Liga Adelante</option><option value="/espagne/segunda-b/">Segunda B</option><option value="/espagne/segunda-division-rfef/">Segunda División RFEF</option><option value="/espagne/tercera-division/">Tercera Division</option><option value="/espagne/autonomicas/">Autonómicas</option><option value="/espagne/copa-del-rey-coupe-du-roi/">Coupe du Roi</option><option value="/espagne/super-coupe-espagne/">Super Coupe</option><option value="/espagne/copa-federacion/">Copa Federacion</option><option value="/espagne/copa-catalunya/">Copa Catalunya</option><option value="/espagne/u18-league/">U18 League</option><option value="/espagne/copa-del-rey-u18/">Copa del Rey U18</option><option value="/espagne/superliga/">Superliga</option><option value="/espagne/1a-nacional-femenina/">1ª Nacional Femenina</option><option value="/espagne/copa-de-la-reina/">Copa de la Reina</option><option value="/espagne/supercopa-de-catalunya/">Supercopa de Catalunya</option><option value="/espagne/liga-nacional-juvenil/">Liga Nacional Juvenil</option><option value="/espagne/primera-federacion-femenina/">Primera Federación Femenina</option><option value="/espagne/primera-nacional-femenina/">Primera Nacional Femenina</option><option value="/espagne/supercopa-femenina/">Supercopa Femenina</option><option value="/espagne/copa-catalunya-femenina/">Copa Catalunya Femenina</option><option value="/espagne/copa-andalucia-femenina/">Copa Andalucía Femenina</option></select></div></div>
 		</div>
 	</div>
 	<div class="clearfix"></div>
 </div>
 
 <div id="filtre_haut">
-	<div class="fDate"><a href="/turquie/super-lig/2023-18/" title="Lun 01 mai - Dim 07 mai | 2023" class="objselect_prevnext objselect_prec"><span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span></a><div class="objselect "><select class="form-control objselect_liste" name="f_semaine" aria-label="f_semaine" onChange="location.href = this.value;"><optgroup label="Octobre 2020"><option value="/turquie/super-lig/2020-42/">Du lundi 12 au dimanche 18 | S42</option><option value="/turquie/super-lig/2020-43/">Du lundi 19 au dimanche 25 | S43</option><option value="/turquie/super-lig/2020-44/">Du lundi 26 au dimanche 01 | S44</option></optgroup><optgroup label="Novembre 2020"><option value="/turquie/super-lig/2020-45/">Du lundi 02 au dimanche 08 | S45</option><option value="/turquie/super-lig/2020-47/">Du lundi 16 au dimanche 22 | S47</option><option value="/turquie/super-lig/2020-48/">Du lundi 23 au dimanche 29 | S48</option><option value="/turquie/super-lig/2020-49/">Du lundi 30 au dimanche 06 | S49</option></optgroup><optgroup label="Décembre 2020"><option value="/turquie/super-lig/2020-50/">Du lundi 07 au dimanche 13 | S50</option><option value="/turquie/super-lig/2020-51/">Du lundi 14 au dimanche 20 | S51</option><option value="/turquie/super-lig/2020-52/">Du lundi 21 au dimanche 27 | S52</option><option value="/turquie/super-lig/2020-53/">Du lundi 28 au dimanche 03 | S53</option></optgroup><optgroup label="Janvier 2021"><option value="/turquie/super-lig/2021-00/">Du vendredi 01 au dimanche 03 | S00</option><option value="/turquie/super-lig/2021-01/">Du lundi 04 au dimanche 10 | S01</option><option value="/turquie/super-lig/2021-02/">Du lundi 11 au dimanche 17 | S02</option><option value="/turquie/super-lig/2021-03/">Du lundi 18 au dimanche 24 | S03</option><option value="/turquie/super-lig/2021-04/">Du lundi 25 au dimanche 31 | S04</option></optgroup><optgroup label="Février 2021"><option value="/turquie/super-lig/2021-05/">Du lundi 01 au dimanche 07 | S05</option><option value="/turquie/super-lig/2021-06/">Du lundi 08 au dimanche 14 | S06</option><option value="/turquie/super-lig/2021-07/">Du lundi 15 au dimanche 21 | S07</option><option value="/turquie/super-lig/2021-08/">Du lundi 22 au dimanche 28 | S08</option></optgroup><optgroup label="Mars 2021"><option value="/turquie/super-lig/2021-09/">Du lundi 01 au dimanche 07 | S09</option><option value="/turquie/super-lig/2021-10/">Du lundi 08 au dimanche 14 | S10</option><option value="/turquie/super-lig/2021-11/">Du lundi 15 au dimanche 21 | S11</option><option value="/turquie/super-lig/2021-13/">Du lundi 29 au dimanche 04 | S13</option></optgroup><optgroup label="Avril 2021"><option value="/turquie/super-lig/2021-14/">Du lundi 05 au dimanche 11 | S14</option><option value="/turquie/super-lig/2021-15/">Du lundi 12 au dimanche 18 | S15</option><option value="/turquie/super-lig/2021-16/">Du lundi 19 au dimanche 25 | S16</option><option value="/turquie/super-lig/2021-17/">Du lundi 26 au dimanche 02 | S17</option></optgroup><optgroup label="Mai 2021"><option value="/turquie/super-lig/2021-18/">Du lundi 03 au dimanche 09 | S18</option><option value="/turquie/super-lig/2021-19/">Du lundi 10 au dimanche 16 | S19</option></optgroup><optgroup label="Août 2021"><option value="/turquie/super-lig/2021-32/">Du lundi 09 au dimanche 15 | S32</option><option value="/turquie/super-lig/2021-33/">Du lundi 16 au dimanche 22 | S33</option><option value="/turquie/super-lig/2021-34/">Du lundi 23 au dimanche 29 | S34</option></optgroup><optgroup label="Septembre 2021"><option value="/turquie/super-lig/2021-36/">Du lundi 06 au dimanche 12 | S36</option><option value="/turquie/super-lig/2021-37/">Du lundi 13 au dimanche 19 | S37</option><option value="/turquie/super-lig/2021-38/">Du lundi 20 au dimanche 26 | S38</option><option value="/turquie/super-lig/2021-39/">Du lundi 27 au dimanche 03 | S39</option></optgroup><optgroup label="Octobre 2021"><option value="/turquie/super-lig/2021-41/">Du lundi 11 au dimanche 17 | S41</option><option value="/turquie/super-lig/2021-42/">Du lundi 18 au dimanche 24 | S42</option><option value="/turquie/super-lig/2021-43/">Du lundi 25 au dimanche 31 | S43</option></optgroup><optgroup label="Novembre 2021"><option value="/turquie/super-lig/2021-44/">Du lundi 01 au dimanche 07 | S44</option><option value="/turquie/super-lig/2021-46/">Du lundi 15 au dimanche 21 | S46</option><option value="/turquie/super-lig/2021-47/">Du lundi 22 au dimanche 28 | S47</option><option value="/turquie/super-lig/2021-48/">Du lundi 29 au dimanche 05 | S48</option></optgroup><optgroup label="Décembre 2021"><option value="/turquie/super-lig/2021-49/">Du lundi 06 au dimanche 12 | S49</option><option value="/turquie/super-lig/2021-50/">Du lundi 13 au dimanche 19 | S50</option><option value="/turquie/super-lig/2021-51/">Du lundi 20 au dimanche 26 | S51</option><option value="/turquie/super-lig/2021-52/">Du lundi 27 au dimanche 02 | S52</option></optgroup><optgroup label="Janvier 2022"><option value="/turquie/super-lig/2022-01/">Du lundi 03 au dimanche 09 | S01</option><option value="/turquie/super-lig/2022-02/">Du lundi 10 au dimanche 16 | S02</option><option value="/turquie/super-lig/2022-03/">Du lundi 17 au dimanche 23 | S03</option><option value="/turquie/super-lig/2022-05/">Du lundi 31 au dimanche 06 | S05</option></optgroup><optgroup label="Février 2022"><option value="/turquie/super-lig/2022-06/">Du lundi 07 au dimanche 13 | S06</option><option value="/turquie/super-lig/2022-07/">Du lundi 14 au dimanche 20 | S07</option><option value="/turquie/super-lig/2022-08/">Du lundi 21 au dimanche 27 | S08</option><option value="/turquie/super-lig/2022-09/">Du lundi 28 au dimanche 06 | S09</option></optgroup><optgroup label="Mars 2022"><option value="/turquie/super-lig/2022-10/">Du lundi 07 au dimanche 13 | S10</option><option value="/turquie/super-lig/2022-11/">Du lundi 14 au dimanche 20 | S11</option><option value="/turquie/super-lig/2022-13/">Du lundi 28 au dimanche 03 | S13</option></optgroup><optgroup label="Avril 2022"><option value="/turquie/super-lig/2022-14/">Du lundi 04 au dimanche 10 | S14</option><option value="/turquie/super-lig/2022-15/">Du lundi 11 au dimanche 17 | S15</option><option value="/turquie/super-lig/2022-16/">Du lundi 18 au dimanche 24 | S16</option><option value="/turquie/super-lig/2022-17/">Du lundi 25 au dimanche 01 | S17</option></optgroup><optgroup label="Mai 2022"><option value="/turquie/super-lig/2022-18/">Du lundi 02 au dimanche 08 | S18</option><option value="/turquie/super-lig/2022-19/">Du lundi 09 au dimanche 15 | S19</option><option value="/turquie/super-lig/2022-20/">Du lundi 16 au dimanche 22 | S20</option></optgroup><optgroup label="Août 2022"><option value="/turquie/super-lig/2022-31/">Du lundi 01 au dimanche 07 | S31</option><option value="/turquie/super-lig/2022-32/">Du lundi 08 au dimanche 14 | S32</option><option value="/turquie/super-lig/2022-33/">Du lundi 15 au dimanche 21 | S33</option><option value="/turquie/super-lig/2022-34/">Du lundi 22 au dimanche 28 | S34</option><option value="/turquie/super-lig/2022-35/">Du lundi 29 au dimanche 04 | S35</option></optgroup><optgroup label="Septembre 2022"><option value="/turquie/super-lig/2022-36/">Du lundi 05 au dimanche 11 | S36</option><option value="/turquie/super-lig/2022-37/">Du lundi 12 au dimanche 18 | S37</option><option value="/turquie/super-lig/2022-39/">Du lundi 26 au dimanche 02 | S39</option></optgroup><optgroup label="Octobre 2022"><option value="/turquie/super-lig/2022-40/">Du lundi 03 au dimanche 09 | S40</option><option value="/turquie/super-lig/2022-41/">Du lundi 10 au dimanche 16 | S41</option><option value="/turquie/super-lig/2022-42/">Du lundi 17 au dimanche 23 | S42</option><option value="/turquie/super-lig/2022-43/">Du lundi 24 au dimanche 30 | S43</option><option value="/turquie/super-lig/2022-44/">Du lundi 31 au dimanche 06 | S44</option></optgroup><optgroup label="Novembre 2022"><option value="/turquie/super-lig/2022-45/">Du lundi 07 au dimanche 13 | S45</option></optgroup><optgroup label="Décembre 2022"><option value="/turquie/super-lig/2022-51/">Du lundi 19 au dimanche 25 | S51</option><option value="/turquie/super-lig/2022-52/">Du lundi 26 au dimanche 01 | S52</option></optgroup><optgroup label="Janvier 2023"><option value="/turquie/super-lig/2023-01/">Du lundi 02 au dimanche 08 | S01</option><option value="/turquie/super-lig/2023-02/">Du lundi 09 au dimanche 15 | S02</option><option value="/turquie/super-lig/2023-03/">Du lundi 16 au dimanche 22 | S03</option><option value="/turquie/super-lig/2023-04/">Du lundi 23 au dimanche 29 | S04</option><option value="/turquie/super-lig/2023-05/">Du lundi 30 au dimanche 05 | S05</option></optgroup><optgroup label="Février 2023"><option value="/turquie/super-lig/2023-08/">Du lundi 20 au dimanche 26 | S08</option><option value="/turquie/super-lig/2023-09/">Du lundi 27 au dimanche 05 | S09</option></optgroup><optgroup label="Mars 2023"><option value="/turquie/super-lig/2023-10/">Du lundi 06 au dimanche 12 | S10</option><option value="/turquie/super-lig/2023-11/">Du lundi 13 au dimanche 19 | S11</option><option value="/turquie/super-lig/2023-13/">Du lundi 27 au dimanche 02 | S13</option></optgroup><optgroup label="Avril 2023"><option value="/turquie/super-lig/2023-14/">Du lundi 03 au dimanche 09 | S14</option><option value="/turquie/super-lig/2023-15/">Du lundi 10 au dimanche 16 | S15</option><option value="/turquie/super-lig/2023-16/">Du lundi 17 au dimanche 23 | S16</option><option value="/turquie/super-lig/2023-17/">Du lundi 24 au dimanche 30 | S17</option></optgroup><optgroup label="Mai 2023"><option value="/turquie/super-lig/2023-18/">Du lundi 01 au dimanche 07 | S18</option><option value="/turquie/super-lig/2023-19/" selected class="selection">Du lundi 08 au dimanche 14 | S19</option><option value="/turquie/super-lig/2023-20/">Du lundi 15 au dimanche 21 | S20</option><option value="/turquie/super-lig/2023-21/">Du lundi 22 au dimanche 28 | S21</option></optgroup></select></div><a href="/turquie/super-lig/2023-20/" title="Lun 15 mai - Dim 21 mai | 2023" class="objselect_prevnext objselect_suiv"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span></a></div>
-	<div class="fTri"><div class="  objselect_no_nav"><select class="form-control objselect_liste" name="f_tri" aria-label="f_tri" onChange="location.href = this.value;"><option value="/turquie/super-lig/" selected class="selection">Trier</option><option value="/turquie/super-lig/asc/">Heure croissante</option><option value="/turquie/super-lig/desc/">Heure décroissante</option></select></div></div>
+	<div class="fDate"><a href="/espagne/segunda-division-liga-adelante/2023-18/" title="Lun 01 mai - Dim 07 mai | 2023" class="objselect_prevnext objselect_prec"><span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span></a><div class="objselect "><select class="form-control objselect_liste" name="f_semaine" aria-label="f_semaine" onChange="location.href = this.value;"><optgroup label="Mars 2021"><option value="/espagne/segunda-division-liga-adelante/2021-11/">Du lundi 15 au dimanche 21 | S11</option><option value="/espagne/segunda-division-liga-adelante/2021-12/">Du lundi 22 au dimanche 28 | S12</option><option value="/espagne/segunda-division-liga-adelante/2021-13/">Du lundi 29 au dimanche 04 | S13</option></optgroup><optgroup label="Avril 2021"><option value="/espagne/segunda-division-liga-adelante/2021-14/">Du lundi 05 au dimanche 11 | S14</option><option value="/espagne/segunda-division-liga-adelante/2021-15/">Du lundi 12 au dimanche 18 | S15</option><option value="/espagne/segunda-division-liga-adelante/2021-16/">Du lundi 19 au dimanche 25 | S16</option><option value="/espagne/segunda-division-liga-adelante/2021-17/">Du lundi 26 au dimanche 02 | S17</option></optgroup><optgroup label="Mai 2021"><option value="/espagne/segunda-division-liga-adelante/2021-18/">Du lundi 03 au dimanche 09 | S18</option><option value="/espagne/segunda-division-liga-adelante/2021-19/">Du lundi 10 au dimanche 16 | S19</option><option value="/espagne/segunda-division-liga-adelante/2021-20/">Du lundi 17 au dimanche 23 | S20</option><option value="/espagne/segunda-division-liga-adelante/2021-21/">Du lundi 24 au dimanche 30 | S21</option><option value="/espagne/segunda-division-liga-adelante/2021-22/">Du lundi 31 au dimanche 06 | S22</option></optgroup><optgroup label="Juin 2021"><option value="/espagne/segunda-division-liga-adelante/2021-23/">Du lundi 07 au dimanche 13 | S23</option><option value="/espagne/segunda-division-liga-adelante/2021-24/">Du lundi 14 au dimanche 20 | S24</option></optgroup><optgroup label="Août 2021"><option value="/espagne/segunda-division-liga-adelante/2021-32/">Du lundi 09 au dimanche 15 | S32</option><option value="/espagne/segunda-division-liga-adelante/2021-33/">Du lundi 16 au dimanche 22 | S33</option><option value="/espagne/segunda-division-liga-adelante/2021-34/">Du lundi 23 au dimanche 29 | S34</option><option value="/espagne/segunda-division-liga-adelante/2021-35/">Du lundi 30 au dimanche 05 | S35</option></optgroup><optgroup label="Septembre 2021"><option value="/espagne/segunda-division-liga-adelante/2021-36/">Du lundi 06 au dimanche 12 | S36</option><option value="/espagne/segunda-division-liga-adelante/2021-37/">Du lundi 13 au dimanche 19 | S37</option><option value="/espagne/segunda-division-liga-adelante/2021-38/">Du lundi 20 au dimanche 26 | S38</option><option value="/espagne/segunda-division-liga-adelante/2021-39/">Du lundi 27 au dimanche 03 | S39</option></optgroup><optgroup label="Octobre 2021"><option value="/espagne/segunda-division-liga-adelante/2021-40/">Du lundi 04 au dimanche 10 | S40</option><option value="/espagne/segunda-division-liga-adelante/2021-41/">Du lundi 11 au dimanche 17 | S41</option><option value="/espagne/segunda-division-liga-adelante/2021-42/">Du lundi 18 au dimanche 24 | S42</option><option value="/espagne/segunda-division-liga-adelante/2021-43/">Du lundi 25 au dimanche 31 | S43</option></optgroup><optgroup label="Novembre 2021"><option value="/espagne/segunda-division-liga-adelante/2021-44/">Du lundi 01 au dimanche 07 | S44</option><option value="/espagne/segunda-division-liga-adelante/2021-45/">Du lundi 08 au dimanche 14 | S45</option><option value="/espagne/segunda-division-liga-adelante/2021-46/">Du lundi 15 au dimanche 21 | S46</option><option value="/espagne/segunda-division-liga-adelante/2021-47/">Du lundi 22 au dimanche 28 | S47</option><option value="/espagne/segunda-division-liga-adelante/2021-48/">Du lundi 29 au dimanche 05 | S48</option></optgroup><optgroup label="Décembre 2021"><option value="/espagne/segunda-division-liga-adelante/2021-49/">Du lundi 06 au dimanche 12 | S49</option><option value="/espagne/segunda-division-liga-adelante/2021-50/">Du lundi 13 au dimanche 19 | S50</option><option value="/espagne/segunda-division-liga-adelante/2021-52/">Du lundi 27 au dimanche 02 | S52</option></optgroup><optgroup label="Janvier 2022"><option value="/espagne/segunda-division-liga-adelante/2022-00/">Du samedi 01 au dimanche 02 | S00</option><option value="/espagne/segunda-division-liga-adelante/2022-01/">Du lundi 03 au dimanche 09 | S01</option><option value="/espagne/segunda-division-liga-adelante/2022-02/">Du lundi 10 au dimanche 16 | S02</option><option value="/espagne/segunda-division-liga-adelante/2022-03/">Du lundi 17 au dimanche 23 | S03</option><option value="/espagne/segunda-division-liga-adelante/2022-04/">Du lundi 24 au dimanche 30 | S04</option><option value="/espagne/segunda-division-liga-adelante/2022-05/">Du lundi 31 au dimanche 06 | S05</option></optgroup><optgroup label="Février 2022"><option value="/espagne/segunda-division-liga-adelante/2022-06/">Du lundi 07 au dimanche 13 | S06</option><option value="/espagne/segunda-division-liga-adelante/2022-07/">Du lundi 14 au dimanche 20 | S07</option><option value="/espagne/segunda-division-liga-adelante/2022-08/">Du lundi 21 au dimanche 27 | S08</option><option value="/espagne/segunda-division-liga-adelante/2022-09/">Du lundi 28 au dimanche 06 | S09</option></optgroup><optgroup label="Mars 2022"><option value="/espagne/segunda-division-liga-adelante/2022-10/">Du lundi 07 au dimanche 13 | S10</option><option value="/espagne/segunda-division-liga-adelante/2022-11/">Du lundi 14 au dimanche 20 | S11</option><option value="/espagne/segunda-division-liga-adelante/2022-12/">Du lundi 21 au dimanche 27 | S12</option><option value="/espagne/segunda-division-liga-adelante/2022-13/">Du lundi 28 au dimanche 03 | S13</option></optgroup><optgroup label="Avril 2022"><option value="/espagne/segunda-division-liga-adelante/2022-14/">Du lundi 04 au dimanche 10 | S14</option><option value="/espagne/segunda-division-liga-adelante/2022-15/">Du lundi 11 au dimanche 17 | S15</option><option value="/espagne/segunda-division-liga-adelante/2022-16/">Du lundi 18 au dimanche 24 | S16</option><option value="/espagne/segunda-division-liga-adelante/2022-17/">Du lundi 25 au dimanche 01 | S17</option></optgroup><optgroup label="Mai 2022"><option value="/espagne/segunda-division-liga-adelante/2022-18/">Du lundi 02 au dimanche 08 | S18</option><option value="/espagne/segunda-division-liga-adelante/2022-19/">Du lundi 09 au dimanche 15 | S19</option><option value="/espagne/segunda-division-liga-adelante/2022-20/">Du lundi 16 au dimanche 22 | S20</option><option value="/espagne/segunda-division-liga-adelante/2022-21/">Du lundi 23 au dimanche 29 | S21</option><option value="/espagne/segunda-division-liga-adelante/2022-22/">Du lundi 30 au dimanche 05 | S22</option></optgroup><optgroup label="Juin 2022"><option value="/espagne/segunda-division-liga-adelante/2022-23/">Du lundi 06 au dimanche 12 | S23</option><option value="/espagne/segunda-division-liga-adelante/2022-24/">Du lundi 13 au dimanche 19 | S24</option></optgroup><optgroup label="Août 2022"><option value="/espagne/segunda-division-liga-adelante/2022-32/">Du lundi 08 au dimanche 14 | S32</option><option value="/espagne/segunda-division-liga-adelante/2022-33/">Du lundi 15 au dimanche 21 | S33</option><option value="/espagne/segunda-division-liga-adelante/2022-34/">Du lundi 22 au dimanche 28 | S34</option><option value="/espagne/segunda-division-liga-adelante/2022-35/">Du lundi 29 au dimanche 04 | S35</option></optgroup><optgroup label="Septembre 2022"><option value="/espagne/segunda-division-liga-adelante/2022-36/">Du lundi 05 au dimanche 11 | S36</option><option value="/espagne/segunda-division-liga-adelante/2022-37/">Du lundi 12 au dimanche 18 | S37</option><option value="/espagne/segunda-division-liga-adelante/2022-38/">Du lundi 19 au dimanche 25 | S38</option><option value="/espagne/segunda-division-liga-adelante/2022-39/">Du lundi 26 au dimanche 02 | S39</option></optgroup><optgroup label="Octobre 2022"><option value="/espagne/segunda-division-liga-adelante/2022-40/">Du lundi 03 au dimanche 09 | S40</option><option value="/espagne/segunda-division-liga-adelante/2022-41/">Du lundi 10 au dimanche 16 | S41</option><option value="/espagne/segunda-division-liga-adelante/2022-42/">Du lundi 17 au dimanche 23 | S42</option><option value="/espagne/segunda-division-liga-adelante/2022-43/">Du lundi 24 au dimanche 30 | S43</option><option value="/espagne/segunda-division-liga-adelante/2022-44/">Du lundi 31 au dimanche 06 | S44</option></optgroup><optgroup label="Novembre 2022"><option value="/espagne/segunda-division-liga-adelante/2022-45/">Du lundi 07 au dimanche 13 | S45</option><option value="/espagne/segunda-division-liga-adelante/2022-46/">Du lundi 14 au dimanche 20 | S46</option><option value="/espagne/segunda-division-liga-adelante/2022-47/">Du lundi 21 au dimanche 27 | S47</option><option value="/espagne/segunda-division-liga-adelante/2022-48/">Du lundi 28 au dimanche 04 | S48</option></optgroup><optgroup label="Décembre 2022"><option value="/espagne/segunda-division-liga-adelante/2022-49/">Du lundi 05 au dimanche 11 | S49</option><option value="/espagne/segunda-division-liga-adelante/2022-50/">Du lundi 12 au dimanche 18 | S50</option><option value="/espagne/segunda-division-liga-adelante/2022-51/">Du lundi 19 au dimanche 25 | S51</option></optgroup><optgroup label="Janvier 2023"><option value="/espagne/segunda-division-liga-adelante/2023-01/">Du lundi 02 au dimanche 08 | S01</option><option value="/espagne/segunda-division-liga-adelante/2023-02/">Du lundi 09 au dimanche 15 | S02</option><option value="/espagne/segunda-division-liga-adelante/2023-03/">Du lundi 16 au dimanche 22 | S03</option><option value="/espagne/segunda-division-liga-adelante/2023-04/">Du lundi 23 au dimanche 29 | S04</option><option value="/espagne/segunda-division-liga-adelante/2023-05/">Du lundi 30 au dimanche 05 | S05</option></optgroup><optgroup label="Février 2023"><option value="/espagne/segunda-division-liga-adelante/2023-06/">Du lundi 06 au dimanche 12 | S06</option><option value="/espagne/segunda-division-liga-adelante/2023-07/">Du lundi 13 au dimanche 19 | S07</option><option value="/espagne/segunda-division-liga-adelante/2023-08/">Du lundi 20 au dimanche 26 | S08</option><option value="/espagne/segunda-division-liga-adelante/2023-09/">Du lundi 27 au dimanche 05 | S09</option></optgroup><optgroup label="Mars 2023"><option value="/espagne/segunda-division-liga-adelante/2023-10/">Du lundi 06 au dimanche 12 | S10</option><option value="/espagne/segunda-division-liga-adelante/2023-11/">Du lundi 13 au dimanche 19 | S11</option><option value="/espagne/segunda-division-liga-adelante/2023-12/">Du lundi 20 au dimanche 26 | S12</option><option value="/espagne/segunda-division-liga-adelante/2023-13/">Du lundi 27 au dimanche 02 | S13</option></optgroup><optgroup label="Avril 2023"><option value="/espagne/segunda-division-liga-adelante/2023-14/">Du lundi 03 au dimanche 09 | S14</option><option value="/espagne/segunda-division-liga-adelante/2023-15/">Du lundi 10 au dimanche 16 | S15</option><option value="/espagne/segunda-division-liga-adelante/2023-16/">Du lundi 17 au dimanche 23 | S16</option><option value="/espagne/segunda-division-liga-adelante/2023-17/">Du lundi 24 au dimanche 30 | S17</option></optgroup><optgroup label="Mai 2023"><option value="/espagne/segunda-division-liga-adelante/2023-18/">Du lundi 01 au dimanche 07 | S18</option><option value="/espagne/segunda-division-liga-adelante/2023-19/" selected class="selection">Du lundi 08 au dimanche 14 | S19</option><option value="/espagne/segunda-division-liga-adelante/2023-20/">Du lundi 15 au dimanche 21 | S20</option><option value="/espagne/segunda-division-liga-adelante/2023-21/">Du lundi 22 au dimanche 28 | S21</option></optgroup></select></div><a href="/espagne/segunda-division-liga-adelante/2023-20/" title="Lun 15 mai - Dim 21 mai | 2023" class="objselect_prevnext objselect_suiv"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span></a></div>
+	<div class="fTri"><div class="  objselect_no_nav"><select class="form-control objselect_liste" name="f_tri" aria-label="f_tri" onChange="location.href = this.value;"><option value="/espagne/segunda-division-liga-adelante/" selected class="selection">Trier</option><option value="/espagne/segunda-division-liga-adelante/asc/">Heure croissante</option><option value="/espagne/segunda-division-liga-adelante/desc/">Heure décroissante</option></select></div></div>
 	<div class="clearfix"></div>
 </div>
 
@@ -746,10 +746,10 @@ ga('send', 'pageview');
     <div class="panel-heading livescore_head" style="border-radius: 0px">
 
         <div class="pLeft">
-            <span class="ico_pays ico_pays_196"></span>
-            <div class="lienCompetition"><h3 class="panel-title"><a href="/turquie/super-lig/">Turquie :
-                Süper Lig</a></h3></div>
-            <div class="lienClassement"> - <a href="/classement-foot/turquie/classement-super-lig.html" class="lienclass">Classement</a></div>
+            <span class="ico_pays ico_pays_176"></span>
+            <div class="lienCompetition"><h3 class="panel-title"><a href="/espagne/segunda-division-liga-adelante/">Espagne :
+                Liga Adelante</a></h3></div>
+            <div class="lienClassement"> - <a href="/classement-foot/espagne/classement-segunda-division-liga-adelante.html" class="lienclass">Classement</a></div>
         </div>
 
         <div class="pRight">
@@ -768,153 +768,163 @@ ga('send', 'pageview');
     <tr>
         <th colspan="4">Lundi 08 mai 2023</th>
     </tr>
-</thead><tr data-matchId="3829812" class=" ">
-    <td class="lm1">19:00</td>
-    <td class="lm2 lm2_0" id="status_3829812"><span class="lm2_time">19:00</span>Terminé</td>
+</thead><tr data-matchId="3812228" class=" ">
+    <td class="lm1">21:00</td>
+    <td class="lm2 lm2_0" id="status_3812228"><span class="lm2_time">21:00</span>Terminé</td>
     <td class="lm3">
-        <a href="/live-score/ankaragucu-trabzonspor.html" title="Détail du match : Trabzonspor - MKE Ankaragücü"><span class="lm3_eq1">Trabzonspor<span class="hidden-xs"><img src="/image/logo/club/16/trabzonspor-logo2213.png?v=20221108" width="16" height="16" loading="lazy" alt="Trabzonspor"></span></span><span class="lm3_score" id="score_3829812">2 - 0</span><span class="lm3_eq2"><span class="hidden-xs"><img src="/image/logo/club/16/mke-ankaragucu-logo2218.png?v=20221108" width="16" height="16" loading="lazy" alt="MKE Ankaragücü"></span>MKE Ankaragücü</span></a>
+        <a href="/live-score/las-palmas-eibar.html" title="Détail du match : Eibar - Las Palmas"><span class="lm3_eq1">Eibar<span class="hidden-xs"><img src="/image/logo/club/16/eibar-logo2042.png?v=20221108" width="16" height="16" loading="lazy" alt="Eibar"></span></span><span class="lm3_score" id="score_3812228">0 - 1</span><span class="lm3_eq2"><span class="hidden-xs"><img src="/image/logo/club/16/las-palmas-logo2055.png?v=20221108" width="16" height="16" loading="lazy" alt="Las Palmas"></span>Las Palmas</span></a>
     </td>
     <td class="lm4">
         
-        <a href="/statistique/ankaragucu-contre-trabzonspor.html" title="Statistiques : Trabzonspor - MKE Ankaragücü"><span class="glyphicon glyphicon-stats text-primary" aria-hidden="true"></span></a>
+        <a href="/statistique/eibar-contre-las-palmas.html" title="Statistiques : Eibar - Las Palmas"><span class="glyphicon glyphicon-stats text-primary" aria-hidden="true"></span></a>
         
         
-        <a href="javascript:void(0);" title="Alerte BUT" id="alerte_but_3829812" class="text-muted jUpdateMatchsSelect"><span class="glyphicon glyphicon-bell" aria-hidden="true"></span></a>
+        <a href="javascript:void(0);" title="Alerte BUT" id="alerte_but_3812228" class="text-muted jUpdateMatchsSelect"><span class="glyphicon glyphicon-bell" aria-hidden="true"></span></a>
     </td>
-</tr><tr data-matchId="3829813" class=" ">
-    <td class="lm1">19:00</td>
-    <td class="lm2 lm2_0" id="status_3829813"><span class="lm2_time">19:00</span>Terminé</td>
+</tr>
+<thead>
+    <tr>
+        <th colspan="4">Vendredi 12 mai 2023</th>
+    </tr>
+</thead><tr data-matchId="3812239" class=" ">
+    <td class="lm1">21:00</td>
+    <td class="lm2 lm2_0" id="status_3812239"><span class="lm2_time">21:00</span>Terminé</td>
     <td class="lm3">
-        <a href="/live-score/galatasaray-sk-menemen-belediyespor.html" title="Détail du match : Galatasaray - Basaksehir"><span class="lm3_eq1">Galatasaray<span class="hidden-xs"><img src="/image/logo/club/16/galatasaray-logo2217.png?v=20221108" width="16" height="16" loading="lazy" alt="Galatasaray"></span></span><span class="lm3_score" id="score_3829813">1 - 0</span><span class="lm3_eq2"><span class="hidden-xs"><img src="/image/logo/club/16/basaksehir-logo2884.png?v=20221108" width="16" height="16" loading="lazy" alt="Basaksehir"></span>Basaksehir</span></a>
+        <a href="/live-score/leganes-burgos.html" title="Détail du match : Burgos - Leganes"><span class="lm3_eq1">Burgos<span class="hidden-xs"><img src="/image/logo/club/16/burgos-logo2081.png?v=20221108" width="16" height="16" loading="lazy" alt="Burgos"></span></span><span class="lm3_score" id="score_3812239">0 - 3</span><span class="lm3_eq2"><span class="hidden-xs"><img src="/image/logo/club/16/leganes-logo2053.png?v=20221108" width="16" height="16" loading="lazy" alt="Leganes"></span>Leganes</span></a>
     </td>
     <td class="lm4">
         
-        <a href="/statistique/buyuksehir-contre-galatasaray.html" title="Statistiques : Galatasaray - Basaksehir"><span class="glyphicon glyphicon-stats text-primary" aria-hidden="true"></span></a>
+        <a href="/statistique/burgos-contre-leganes.html" title="Statistiques : Burgos - Leganes"><span class="glyphicon glyphicon-stats text-primary" aria-hidden="true"></span></a>
         
         
-        <a href="javascript:void(0);" title="Alerte BUT" id="alerte_but_3829813" class="text-muted jUpdateMatchsSelect"><span class="glyphicon glyphicon-bell" aria-hidden="true"></span></a>
+        <a href="javascript:void(0);" title="Alerte BUT" id="alerte_but_3812239" class="text-muted jUpdateMatchsSelect"><span class="glyphicon glyphicon-bell" aria-hidden="true"></span></a>
+    </td>
+</tr>
+<thead>
+    <tr>
+        <th colspan="4">Samedi 13 mai 2023</th>
+    </tr>
+</thead><tr data-matchId="3812248" class=" ">
+    <td class="lm1">16:15</td>
+    <td class="lm2 lm2_0" id="status_3812248"><span class="lm2_time">16:15</span>Terminé</td>
+    <td class="lm3">
+        <a href="/live-score/sporting-gijon-real-oviedo.html" title="Détail du match : Sporting Gijón - Real Oviedo"><span class="lm3_eq1">Sporting Gijón<span class="hidden-xs"><img src="/image/logo/club/16/sporting-gijon-logo2038.png?v=20221108" width="16" height="16" loading="lazy" alt="Sporting Gijón"></span></span><span class="lm3_score" id="score_3812248">1 - 1</span><span class="lm3_eq2"><span class="hidden-xs"><img src="/image/logo/club/16/real-oviedo-logo2336.png?v=20221108" width="16" height="16" loading="lazy" alt="Real Oviedo"></span>Real Oviedo</span></a>
+    </td>
+    <td class="lm4">
+        
+        <a href="/statistique/oviedo-contre-sporting-gijon.html" title="Statistiques : Sporting Gijón - Real Oviedo"><span class="glyphicon glyphicon-stats text-primary" aria-hidden="true"></span></a>
+        
+        
+        <a href="javascript:void(0);" title="Alerte BUT" id="alerte_but_3812248" class="text-muted jUpdateMatchsSelect"><span class="glyphicon glyphicon-bell" aria-hidden="true"></span></a>
+    </td>
+</tr><tr data-matchId="3812240" class=" ">
+    <td class="lm1">18:30</td>
+    <td class="lm2 lm2_0" id="status_3812240"><span class="lm2_time">18:30</span>Terminé</td>
+    <td class="lm3">
+        <a href="/live-score/grenade-lugo.html" title="Détail du match : Grenade - Lugo"><span class="lm3_eq1">Grenade<span class="hidden-xs"><img src="/image/logo/club/16/grenade-logo7072.png?v=20221108" width="16" height="16" loading="lazy" alt="Grenade"></span></span><span class="lm3_score" id="score_3812240">2 - 0</span><span class="lm3_eq2"><span class="hidden-xs"><img src="/image/logo/club/16/lugo-logo7073.png?v=20221108" width="16" height="16" loading="lazy" alt="Lugo"></span>Lugo</span></a>
+    </td>
+    <td class="lm4">
+        
+        <a href="/statistique/club-deportivo-lugo-contre-grenade-7072.html" title="Statistiques : Grenade - Lugo"><span class="glyphicon glyphicon-stats text-primary" aria-hidden="true"></span></a>
+        
+        
+        <a href="javascript:void(0);" title="Alerte BUT" id="alerte_but_3812240" class="text-muted jUpdateMatchsSelect"><span class="glyphicon glyphicon-bell" aria-hidden="true"></span></a>
+    </td>
+</tr><tr data-matchId="3812245" class=" ">
+    <td class="lm1">18:30</td>
+    <td class="lm2 lm2_0" id="status_3812245"><span class="lm2_time">18:30</span>Terminé</td>
+    <td class="lm3">
+        <a href="/live-score/real-saragosse-carthagene.html" title="Détail du match : Real Saragosse - Carthagène"><span class="lm3_eq1">Real Saragosse<span class="hidden-xs"><img src="/image/logo/club/16/real-saragosse-logo2030.png?v=20221108" width="16" height="16" loading="lazy" alt="Real Saragosse"></span></span><span class="lm3_score" id="score_3812245">2 - 0</span><span class="lm3_eq2"><span class="hidden-xs"><img src="/image/logo/club/16/carthagene-logo3008.png?v=20221108" width="16" height="16" loading="lazy" alt="Carthagène"></span>Carthagène</span></a>
+    </td>
+    <td class="lm4">
+        
+        <a href="/statistique/fc-cartagena-contre-real-saragosse.html" title="Statistiques : Real Saragosse - Carthagène"><span class="glyphicon glyphicon-stats text-primary" aria-hidden="true"></span></a>
+        
+        
+        <a href="javascript:void(0);" title="Alerte BUT" id="alerte_but_3812245" class="text-muted jUpdateMatchsSelect"><span class="glyphicon glyphicon-bell" aria-hidden="true"></span></a>
+    </td>
+</tr><tr data-matchId="3812243" class=" ">
+    <td class="lm1">21:00</td>
+    <td class="lm2 lm2_0" id="status_3812243"><span class="lm2_time">21:00</span>Terminé</td>
+    <td class="lm3">
+        <a href="/live-score/malaga-mirandes.html" title="Détail du match : Malaga - Mirandés"><span class="lm3_eq1">Malaga<span class="hidden-xs"><img src="/image/logo/club/16/malaga-logo2024.png?v=20221108" width="16" height="16" loading="lazy" alt="Malaga"></span></span><span class="lm3_score" id="score_3812243">2 - 0</span><span class="lm3_eq2"><span class="hidden-xs"><img src="/image/logo/club/16/mirandes-logo9670.png?v=20221108" width="16" height="16" loading="lazy" alt="Mirandés"></span>Mirandés</span></a>
+    </td>
+    <td class="lm4">
+        
+        <a href="/statistique/malaga-contre-mrep-islamique-d-irandes.html" title="Statistiques : Malaga - Mirandés"><span class="glyphicon glyphicon-stats text-primary" aria-hidden="true"></span></a>
+        
+        
+        <a href="javascript:void(0);" title="Alerte BUT" id="alerte_but_3812243" class="text-muted jUpdateMatchsSelect"><span class="glyphicon glyphicon-bell" aria-hidden="true"></span></a>
     </td>
 </tr>
 <thead>
     <tr>
         <th colspan="4">Dimanche 14 mai 2023</th>
     </tr>
-</thead><tr data-matchId="3829835" class=" ">
-    <td class="lm1"><span title="Heure pas encore définie pour le match">--&nbsp;:&nbsp--</span></td>
-    <td class="lm2 lm2_0" id="status_3829835"><span class="lm2_time"><span title="Heure pas encore définie pour le match">--&nbsp;:&nbsp--</span></span>Reporté</td>
+</thead><tr data-matchId="3812246" class=" ">
+    <td class="lm1">14:00</td>
+    <td class="lm2 lm2_0" id="status_3812246"><span class="lm2_time">14:00</span><a href="/live-score/eibar-racing-santander.html#comparateur"><h4 class="isFrench"><span class="label label-default">1N2</span></h4></a></td>
     <td class="lm3">
-        <a href="/live-score/fenerbahce-antalyaspor.html" title="Détail du match : Fenerbahce - Antalyaspor"><span class="lm3_eq1">Fenerbahce<span class="hidden-xs"><img src="/image/logo/club/16/fenerbahce-logo2212.png?v=20221108" width="16" height="16" loading="lazy" alt="Fenerbahce"></span></span><span class="lm3_score" id="score_3829835"><span class="ico_btn_score">&nbsp;</span></span><span class="lm3_eq2"><span class="hidden-xs"><img src="/image/logo/club/16/antalyaspor-logo2236.png?v=20221108" width="16" height="16" loading="lazy" alt="Antalyaspor"></span>Antalyaspor</span></a>
+        <a href="/live-score/eibar-racing-santander.html" title="Détail du match : Racing Santander - Eibar"><span class="lm3_eq1">Racing Santander<span class="hidden-xs"><img src="/image/logo/club/16/racing-santander-logo2029.png?v=20221108" width="16" height="16" loading="lazy" alt="Racing Santander"></span></span><span class="lm3_score" id="score_3812246"><span class="ico_btn_score">&nbsp;</span></span><span class="lm3_eq2"><span class="hidden-xs"><img src="/image/logo/club/16/eibar-logo2042.png?v=20221108" width="16" height="16" loading="lazy" alt="Eibar"></span>Eibar</span></a>
     </td>
     <td class="lm4">
         
-        <a href="/statistique/antalyaspor-contre-fenerbahce.html" title="Statistiques : Fenerbahce - Antalyaspor"><span class="glyphicon glyphicon-stats text-primary" aria-hidden="true"></span></a>
+        <a href="/statistique/eibar-contre-racing-santander.html" title="Statistiques : Racing Santander - Eibar"><span class="glyphicon glyphicon-stats text-primary" aria-hidden="true"></span></a>
         
         
-        <a href="javascript:void(0);" title="Alerte BUT" id="alerte_but_3829835" class="text-muted jUpdateMatchsSelect"><span class="glyphicon glyphicon-bell" aria-hidden="true"></span></a>
+        <a href="javascript:void(0);" title="Alerte BUT" id="alerte_but_3812246" class="text-muted jUpdateMatchsSelect"><span class="glyphicon glyphicon-bell" aria-hidden="true"></span></a>
     </td>
-</tr><tr data-matchId="3829836" class=" ">
-    <td class="lm1"><span title="Heure pas encore définie pour le match">--&nbsp;:&nbsp--</span></td>
-    <td class="lm2 lm2_0" id="status_3829836"><span class="lm2_time"><span title="Heure pas encore définie pour le match">--&nbsp;:&nbsp--</span></span>Annulé</td>
+</tr><tr data-matchId="3812238" class=" ">
+    <td class="lm1">16:15</td>
+    <td class="lm2 lm2_0" id="status_3812238"><span class="lm2_time">16:15</span><a href="/live-score/tenerife-fc-andorra.html#comparateur"><h4 class="isFrench"><span class="label label-default">1N2</span></h4></a></td>
     <td class="lm3">
-        <a href="/live-score/hatayspor-umraniyespor.html" title="Détail du match : Hatayspor - Ümraniyespor"><span class="lm3_eq1">Hatayspor<span class="hidden-xs"><img src="/image/logo/club/16/hatayspor-logo2883.png?v=20221108" width="16" height="16" loading="lazy" alt="Hatayspor"></span></span><span class="lm3_score" id="score_3829836"><span class="ico_btn_score">&nbsp;</span></span><span class="lm3_eq2"><span class="hidden-xs"><img src="/image/logo/club/16/umraniyespor-logo19664.png?v=20221108" width="16" height="16" loading="lazy" alt="Ümraniyespor"></span>Ümraniyespor</span></a>
+        <a href="/live-score/tenerife-fc-andorra.html" title="Détail du match : FC Andorra - Tenerife"><span class="lm3_eq1">FC Andorra<span class="hidden-xs"><img src="/image/logo/club/16/equipe-logodefaut.png?v=20221108" width="16" height="16" loading="lazy" alt="FC Andorra"></span></span><span class="lm3_score" id="score_3812238"><span class="ico_btn_score">&nbsp;</span></span><span class="lm3_eq2"><span class="hidden-xs"><img src="/image/logo/club/16/tenerife-logo2048.png?v=20221108" width="16" height="16" loading="lazy" alt="Tenerife"></span>Tenerife</span></a>
     </td>
     <td class="lm4">
         
-        <a href="/statistique/hatayspor-contre-umraniyespor.html" title="Statistiques : Hatayspor - Ümraniyespor"><span class="glyphicon glyphicon-stats text-primary" aria-hidden="true"></span></a>
+        <a href="/statistique/fc-andorra-contre-tenerife.html" title="Statistiques : FC Andorra - Tenerife"><span class="glyphicon glyphicon-stats text-primary" aria-hidden="true"></span></a>
         
         
-        <a href="javascript:void(0);" title="Alerte BUT" id="alerte_but_3829836" class="text-muted jUpdateMatchsSelect"><span class="glyphicon glyphicon-bell" aria-hidden="true"></span></a>
+        <a href="javascript:void(0);" title="Alerte BUT" id="alerte_but_3812238" class="text-muted jUpdateMatchsSelect"><span class="glyphicon glyphicon-bell" aria-hidden="true"></span></a>
     </td>
-</tr><tr data-matchId="3829837" class=" ">
-    <td class="lm1"><span title="Heure pas encore définie pour le match">--&nbsp;:&nbsp--</span></td>
-    <td class="lm2 lm2_0" id="status_3829837"><span class="lm2_time"><span title="Heure pas encore définie pour le match">--&nbsp;:&nbsp--</span></span>Reporté</td>
+</tr><tr data-matchId="3812241" class=" ">
+    <td class="lm1">18:30</td>
+    <td class="lm2 lm2_0" id="status_3812241"><span class="lm2_time">18:30</span><a href="/live-score/ponferradina-huesca.html#comparateur"><h4 class="isFrench"><span class="label label-default">1N2</span></h4></a></td>
     <td class="lm3">
-        <a href="/live-score/galatasaray-ankaragucu.html" title="Détail du match : MKE Ankaragücü - Galatasaray"><span class="lm3_eq1">MKE Ankaragücü<span class="hidden-xs"><img src="/image/logo/club/16/mke-ankaragucu-logo2218.png?v=20221108" width="16" height="16" loading="lazy" alt="MKE Ankaragücü"></span></span><span class="lm3_score" id="score_3829837"><span class="ico_btn_score">&nbsp;</span></span><span class="lm3_eq2"><span class="hidden-xs"><img src="/image/logo/club/16/galatasaray-logo2217.png?v=20221108" width="16" height="16" loading="lazy" alt="Galatasaray"></span>Galatasaray</span></a>
+        <a href="/live-score/ponferradina-huesca.html" title="Détail du match : Huesca - Ponferradina"><span class="lm3_eq1">Huesca<span class="hidden-xs"><img src="/image/logo/club/16/huesca-logo3003.png?v=20221108" width="16" height="16" loading="lazy" alt="Huesca"></span></span><span class="lm3_score" id="score_3812241"><span class="ico_btn_score">&nbsp;</span></span><span class="lm3_eq2"><span class="hidden-xs"><img src="/image/logo/club/16/ponferradina-logo2084.png?v=20221108" width="16" height="16" loading="lazy" alt="Ponferradina"></span>Ponferradina</span></a>
     </td>
     <td class="lm4">
         
-        <a href="/statistique/ankaragucu-contre-galatasaray.html" title="Statistiques : MKE Ankaragücü - Galatasaray"><span class="glyphicon glyphicon-stats text-primary" aria-hidden="true"></span></a>
+        <a href="/statistique/huesca-contre-ponferradina.html" title="Statistiques : Huesca - Ponferradina"><span class="glyphicon glyphicon-stats text-primary" aria-hidden="true"></span></a>
         
         
-        <a href="javascript:void(0);" title="Alerte BUT" id="alerte_but_3829837" class="text-muted jUpdateMatchsSelect"><span class="glyphicon glyphicon-bell" aria-hidden="true"></span></a>
+        <a href="javascript:void(0);" title="Alerte BUT" id="alerte_but_3812241" class="text-muted jUpdateMatchsSelect"><span class="glyphicon glyphicon-bell" aria-hidden="true"></span></a>
     </td>
-</tr><tr data-matchId="3829838" class=" ">
-    <td class="lm1"><span title="Heure pas encore définie pour le match">--&nbsp;:&nbsp--</span></td>
-    <td class="lm2 lm2_0" id="status_3829838"><span class="lm2_time"><span title="Heure pas encore définie pour le match">--&nbsp;:&nbsp--</span></span>Reporté</td>
+</tr><tr data-matchId="3812244" class=" ">
+    <td class="lm1">18:30</td>
+    <td class="lm2 lm2_0" id="status_3812244"><span class="lm2_time">18:30</span><a href="/live-score/deportivo-alaves-albacete.html#comparateur"><h4 class="isFrench"><span class="label label-default">1N2</span></h4></a></td>
     <td class="lm3">
-        <a href="/live-score/trabzonspor-giresunspor.html" title="Détail du match : Giresunspor - Trabzonspor"><span class="lm3_eq1">Giresunspor<span class="hidden-xs"><img src="/image/logo/club/16/giresunspor-logo6042.png?v=20221108" width="16" height="16" loading="lazy" alt="Giresunspor"></span></span><span class="lm3_score" id="score_3829838"><span class="ico_btn_score">&nbsp;</span></span><span class="lm3_eq2"><span class="hidden-xs"><img src="/image/logo/club/16/trabzonspor-logo2213.png?v=20221108" width="16" height="16" loading="lazy" alt="Trabzonspor"></span>Trabzonspor</span></a>
+        <a href="/live-score/deportivo-alaves-albacete.html" title="Détail du match : Albacete - Alavés"><span class="lm3_eq1">Albacete<span class="hidden-xs"><img src="/image/logo/club/16/albacete-logo2026.png?v=20221108" width="16" height="16" loading="lazy" alt="Albacete"></span></span><span class="lm3_score" id="score_3812244"><span class="ico_btn_score">&nbsp;</span></span><span class="lm3_eq2"><span class="hidden-xs"><img src="/image/logo/club/16/alaves-logo2037.png?v=20221108" width="16" height="16" loading="lazy" alt="Alavés"></span>Alavés</span></a>
     </td>
     <td class="lm4">
         
-        <a href="/statistique/giresunspor-contre-trabzonspor.html" title="Statistiques : Giresunspor - Trabzonspor"><span class="glyphicon glyphicon-stats text-primary" aria-hidden="true"></span></a>
+        <a href="/statistique/albacete-contre-deportivo-alaves.html" title="Statistiques : Albacete - Alavés"><span class="glyphicon glyphicon-stats text-primary" aria-hidden="true"></span></a>
         
         
-        <a href="javascript:void(0);" title="Alerte BUT" id="alerte_but_3829838" class="text-muted jUpdateMatchsSelect"><span class="glyphicon glyphicon-bell" aria-hidden="true"></span></a>
+        <a href="javascript:void(0);" title="Alerte BUT" id="alerte_but_3812244" class="text-muted jUpdateMatchsSelect"><span class="glyphicon glyphicon-bell" aria-hidden="true"></span></a>
     </td>
-</tr><tr data-matchId="3829839" class=" ">
-    <td class="lm1"><span title="Heure pas encore définie pour le match">--&nbsp;:&nbsp--</span></td>
-    <td class="lm2 lm2_0" id="status_3829839"><span class="lm2_time"><span title="Heure pas encore définie pour le match">--&nbsp;:&nbsp--</span></span>Annulé</td>
+</tr><tr data-matchId="3812242" class=" ">
+    <td class="lm1">21:00</td>
+    <td class="lm2 lm2_0" id="status_3812242"><span class="lm2_time">21:00</span><a href="/live-score/las-palmas-villarreal-b.html#comparateur"><h4 class="isFrench"><span class="label label-default">1N2</span></h4></a></td>
     <td class="lm3">
-        <a href="/live-score/istanbul-bb-gaziantep-bb.html" title="Détail du match : Basaksehir - Gaziantep FK"><span class="lm3_eq1">Basaksehir<span class="hidden-xs"><img src="/image/logo/club/16/basaksehir-logo2884.png?v=20221108" width="16" height="16" loading="lazy" alt="Basaksehir"></span></span><span class="lm3_score" id="score_3829839"><span class="ico_btn_score">&nbsp;</span></span><span class="lm3_eq2"><span class="hidden-xs"><img src="/image/logo/club/16/gaziantep-fk-logo3287.png?v=20221108" width="16" height="16" loading="lazy" alt="Gaziantep FK"></span>Gaziantep FK</span></a>
+        <a href="/live-score/las-palmas-villarreal-b.html" title="Détail du match : Las Palmas - Villarreal II"><span class="lm3_eq1">Las Palmas<span class="hidden-xs"><img src="/image/logo/club/16/las-palmas-logo2055.png?v=20221108" width="16" height="16" loading="lazy" alt="Las Palmas"></span></span><span class="lm3_score" id="score_3812242"><span class="ico_btn_score">&nbsp;</span></span><span class="lm3_eq2"><span class="hidden-xs"><img src="/image/logo/club/16/villarreal-ii-logo9076.png?v=20221108" width="16" height="16" loading="lazy" alt="Villarreal II"></span>Villarreal II</span></a>
     </td>
     <td class="lm4">
         
-        <a href="/statistique/buyuksehir-contre-gaziantep-bb.html" title="Statistiques : Basaksehir - Gaziantep FK"><span class="glyphicon glyphicon-stats text-primary" aria-hidden="true"></span></a>
+        <a href="/statistique/las-palmas-contre-villarreal-b.html" title="Statistiques : Las Palmas - Villarreal II"><span class="glyphicon glyphicon-stats text-primary" aria-hidden="true"></span></a>
         
         
-        <a href="javascript:void(0);" title="Alerte BUT" id="alerte_but_3829839" class="text-muted jUpdateMatchsSelect"><span class="glyphicon glyphicon-bell" aria-hidden="true"></span></a>
-    </td>
-</tr><tr data-matchId="3829840" class=" ">
-    <td class="lm1"><span title="Heure pas encore définie pour le match">--&nbsp;:&nbsp--</span></td>
-    <td class="lm2 lm2_0" id="status_3829840"><span class="lm2_time"><span title="Heure pas encore définie pour le match">--&nbsp;:&nbsp--</span></span>Reporté</td>
-    <td class="lm3">
-        <a href="/live-score/istanbulspor-as-adana-demirspor.html" title="Détail du match : Istanbulspor AS - Adana Demirspor"><span class="lm3_eq1">Istanbulspor AS<span class="hidden-xs"><img src="/image/logo/club/16/istanbulspor-as-logo2226.png?v=20221108" width="16" height="16" loading="lazy" alt="Istanbulspor AS"></span></span><span class="lm3_score" id="score_3829840"><span class="ico_btn_score">&nbsp;</span></span><span class="lm3_eq2"><span class="hidden-xs"><img src="/image/logo/club/16/adana-demirspor-logo2348.png?v=20221108" width="16" height="16" loading="lazy" alt="Adana Demirspor"></span>Adana Demirspor</span></a>
-    </td>
-    <td class="lm4">
-        
-        <a href="/statistique/demirspor-adana-contre-istanbulspor.html" title="Statistiques : Istanbulspor AS - Adana Demirspor"><span class="glyphicon glyphicon-stats text-primary" aria-hidden="true"></span></a>
-        
-        
-        <a href="javascript:void(0);" title="Alerte BUT" id="alerte_but_3829840" class="text-muted jUpdateMatchsSelect"><span class="glyphicon glyphicon-bell" aria-hidden="true"></span></a>
-    </td>
-</tr><tr data-matchId="3829841" class=" ">
-    <td class="lm1"><span title="Heure pas encore définie pour le match">--&nbsp;:&nbsp--</span></td>
-    <td class="lm2 lm2_0" id="status_3829841"><span class="lm2_time"><span title="Heure pas encore définie pour le match">--&nbsp;:&nbsp--</span></span>Reporté</td>
-    <td class="lm3">
-        <a href="/live-score/kasimpasa-sk-alanyaspor.html" title="Détail du match : Alanyaspor - Kasimpasa SK"><span class="lm3_eq1">Alanyaspor<span class="hidden-xs"><img src="/image/logo/club/16/alanyaspor-logo7285.png?v=20221108" width="16" height="16" loading="lazy" alt="Alanyaspor"></span></span><span class="lm3_score" id="score_3829841"><span class="ico_btn_score">&nbsp;</span></span><span class="lm3_eq2"><span class="hidden-xs"><img src="/image/logo/club/16/kasimpasa-sk-logo6900.png?v=20221108" width="16" height="16" loading="lazy" alt="Kasimpasa SK"></span>Kasimpasa SK</span></a>
-    </td>
-    <td class="lm4">
-        
-        <a href="/statistique/alanyaspor-contre-kasimpasa.html" title="Statistiques : Alanyaspor - Kasimpasa SK"><span class="glyphicon glyphicon-stats text-primary" aria-hidden="true"></span></a>
-        
-        
-        <a href="javascript:void(0);" title="Alerte BUT" id="alerte_but_3829841" class="text-muted jUpdateMatchsSelect"><span class="glyphicon glyphicon-bell" aria-hidden="true"></span></a>
-    </td>
-</tr><tr data-matchId="3829842" class=" ">
-    <td class="lm1"><span title="Heure pas encore définie pour le match">--&nbsp;:&nbsp--</span></td>
-    <td class="lm2 lm2_0" id="status_3829842"><span class="lm2_time"><span title="Heure pas encore définie pour le match">--&nbsp;:&nbsp--</span></span>Reporté</td>
-    <td class="lm3">
-        <a href="/live-score/sivasspor-konyaspor.html" title="Détail du match : Sivasspor - Konyaspor"><span class="lm3_eq1">Sivasspor<span class="hidden-xs"><img src="/image/logo/club/16/sivasspor-logo2238.png?v=20221108" width="16" height="16" loading="lazy" alt="Sivasspor"></span></span><span class="lm3_score" id="score_3829842"><span class="ico_btn_score">&nbsp;</span></span><span class="lm3_eq2"><span class="hidden-xs"><img src="/image/logo/club/16/konyaspor-logo2223.png?v=20221108" width="16" height="16" loading="lazy" alt="Konyaspor"></span>Konyaspor</span></a>
-    </td>
-    <td class="lm4">
-        
-        <a href="/statistique/konyaspor-contre-sivasspor.html" title="Statistiques : Sivasspor - Konyaspor"><span class="glyphicon glyphicon-stats text-primary" aria-hidden="true"></span></a>
-        
-        
-        <a href="javascript:void(0);" title="Alerte BUT" id="alerte_but_3829842" class="text-muted jUpdateMatchsSelect"><span class="glyphicon glyphicon-bell" aria-hidden="true"></span></a>
-    </td>
-</tr><tr data-matchId="3829843" class=" ">
-    <td class="lm1"><span title="Heure pas encore définie pour le match">--&nbsp;:&nbsp--</span></td>
-    <td class="lm2 lm2_0" id="status_3829843"><span class="lm2_time"><span title="Heure pas encore définie pour le match">--&nbsp;:&nbsp--</span></span>Reporté</td>
-    <td class="lm3">
-        <a href="/live-score/kayserispor-fatih-karagumruk.html" title="Détail du match : Fatih Karagümrük - Kayserispor"><span class="lm3_eq1">Fatih Karagümrük<span class="hidden-xs"><img src="/image/logo/club/16/fatih-karagumruk-logo3014.png?v=20221108" width="16" height="16" loading="lazy" alt="Fatih Karagümrük"></span></span><span class="lm3_score" id="score_3829843"><span class="ico_btn_score">&nbsp;</span></span><span class="lm3_eq2"><span class="hidden-xs"><img src="/image/logo/club/16/kayserispor-logo2235.png?v=20221108" width="16" height="16" loading="lazy" alt="Kayserispor"></span>Kayserispor</span></a>
-    </td>
-    <td class="lm4">
-        
-        <a href="/statistique/karagumruk-contre-kayserispor.html" title="Statistiques : Fatih Karagümrük - Kayserispor"><span class="glyphicon glyphicon-stats text-primary" aria-hidden="true"></span></a>
-        
-        
-        <a href="javascript:void(0);" title="Alerte BUT" id="alerte_but_3829843" class="text-muted jUpdateMatchsSelect"><span class="glyphicon glyphicon-bell" aria-hidden="true"></span></a>
+        <a href="javascript:void(0);" title="Alerte BUT" id="alerte_but_3812242" class="text-muted jUpdateMatchsSelect"><span class="glyphicon glyphicon-bell" aria-hidden="true"></span></a>
     </td>
 </tr>
 </table>
@@ -966,9 +976,9 @@ ga('send', 'pageview');
 	<div class="panel-body">
 		<div id="commentaire_facebook"></div>
 		<div id="commentaire_med">
-<input type="hidden" name="f_id_contexte" value="19"/>
+<input type="hidden" name="f_id_contexte" value="12"/>
 <input type="hidden" name="f_flag_contexte" value="8"/>
-<input type="hidden" name="f_nb_commentaire" value="2"/>
+<input type="hidden" name="f_nb_commentaire" value="5"/>
 <input type="hidden" name="f_url" value=""/>
 <input type="hidden" name="f_titre" value=""/>
 
@@ -1011,11 +1021,11 @@ ga('send', 'pageview');
     <small>Jouer comporte des risques : isolement, endettement... Appelez le 09-74-75-13-13 (appel non surtaxé)</small>
 </li>
 
-<li id="idcom43190958" data-commentaireid="43190958" class="media   ">
+<li id="idcom48953528" data-commentaireid="48953528" class="media   ">
 	<div class="pull-left first">
-		<a href="/membre/merckel/">
-			<img src="//graph.facebook.com/1225391937808326/picture?type=square" alt="Merckel" loading="lazy" title="Merckel : 47 commentaires" class="img-responsive img-thumbnail center-block">
-			Merckel
+		<a href="/membre/franoismendes48/">
+			<img src="/image/commun/membre-med-t32.png" alt="Franoismendes48" loading="lazy" title="Franoismendes48 : 14 commentaires" class="img-responsive img-thumbnail center-block">
+			Franoismendes48
 		</a>
 		
 	</div>
@@ -1023,14 +1033,14 @@ ga('send', 'pageview');
 	<div class="media-body">
 		<span class="pull-right cominfo">
 			<span class="vote up "><span class="glyphicon glyphicon-thumbs-up" aria-hidden="true"></span> <span class="UpDownvalue"></span></span>
-			<small class="text-muted"> Ven 26 jui<span class="hidden-xs">n</span> 2020 à 15:04</small>
+			<small class="text-muted"> Sam 3 déc<span class="hidden-xs">embre</span> 2022 à 18:04</small>
 			<br>
 			
 		</span>
 
 
 		<p>
-			Besiktas 1x(1,5)
+			C'est magnifique Saragosse le deuxi&egrave;me but.
 		</p>
 
 	</div>
@@ -1038,11 +1048,11 @@ ga('send', 'pageview');
 </li>
 
 
-<li id="idcom42844893" data-commentaireid="42844893" class="media   ">
+<li id="idcom45871311" data-commentaireid="45871311" class="media   ">
 	<div class="pull-left first">
-		<a href="/membre/dybala93/">
-			<img src="//www.matchendirect.fr/image/logo/club/32/ifk-ostersund-logo10727.png" alt="Dybala93" loading="lazy" title="Dybala93 : 2 231 commentaires" class="img-responsive img-thumbnail center-block">
-			Dybala93
+		<a href="/membre/latotale50/">
+			<img src="/image/commun/membre-med-t32.png" alt="LaTotale50" loading="lazy" title="LaTotale50 : 15 commentaires" class="img-responsive img-thumbnail center-block">
+			LaTotale50
 		</a>
 		
 	</div>
@@ -1050,14 +1060,95 @@ ga('send', 'pageview');
 	<div class="media-body">
 		<span class="pull-right cominfo">
 			<span class="vote up "><span class="glyphicon glyphicon-thumbs-up" aria-hidden="true"></span> <span class="UpDownvalue"></span></span>
-			<small class="text-muted"> Jeu 19 mar<span class="hidden-xs">s</span> 2020 à 21:54</small>
+			<small class="text-muted"> Lun 15 mar<span class="hidden-xs">s</span> 2021 à 19:23</small>
 			<br>
 			
 		</span>
 
 
 		<p>
-			Suspendu 
+			La victoire de Almeiria
+		</p>
+
+	</div>
+
+</li>
+
+
+<li id="idcom45421758" data-commentaireid="45421758" class="media   ">
+	<div class="pull-left first">
+		<a href="/membre/adokavu/">
+			<img src="//graph.facebook.com/462339171630786/picture?type=square" alt="Adokavu" loading="lazy" title="Adokavu : 4 commentaires" class="img-responsive img-thumbnail center-block">
+			Adokavu
+		</a>
+		
+	</div>
+
+	<div class="media-body">
+		<span class="pull-right cominfo">
+			<span class="vote up "><span class="glyphicon glyphicon-thumbs-up" aria-hidden="true"></span> <span class="UpDownvalue"></span></span>
+			<small class="text-muted"> Sam 6 fév<span class="hidden-xs">rier</span> 2021 à 10:37</small>
+			<br>
+			
+		</span>
+
+
+		<p>
+			Pour Le Championant D'Espagne Laliga B, Donne Match Nul? J'espere Qu'aujaurd'hui Nous Un Match Nul Soit Deux Matchs.
+		</p>
+
+	</div>
+
+</li>
+
+
+<li id="idcom43103685" data-commentaireid="43103685" class="media   ">
+	<div class="pull-left first">
+		<a href="/membre/titoufiesta/">
+			<img src="//www.matchendirect.fr/image/logo/club/32/bastia-logo897.png" alt="Titoufiesta" loading="lazy" title="Titoufiesta : 96 049 commentaires" class="img-responsive img-thumbnail center-block">
+			Titoufiesta
+		</a>
+		
+	</div>
+
+	<div class="media-body">
+		<span class="pull-right cominfo">
+			<span class="vote up "><span class="glyphicon glyphicon-thumbs-up" aria-hidden="true"></span> <span class="UpDownvalue"></span></span>
+			<small class="text-muted"> Lun 15 jui<span class="hidden-xs">n</span> 2020 à 08:52</small>
+			<br>
+			
+		</span>
+
+
+		<p>
+			Pff
+		</p>
+
+	</div>
+
+</li>
+
+
+<li id="idcom41365999" data-commentaireid="41365999" class="media   ">
+	<div class="pull-left first">
+		<a href="/membre/matwo/">
+			<img src="//www.matchendirect.fr/image/logo/club/32/croatie-logo514.png" alt="Matwo" loading="lazy" title="Matwo :  482 commentaires" class="img-responsive img-thumbnail center-block">
+			Matwo
+		</a>
+		
+	</div>
+
+	<div class="media-body">
+		<span class="pull-right cominfo">
+			<span class="vote up "><span class="glyphicon glyphicon-thumbs-up" aria-hidden="true"></span> <span class="UpDownvalue"></span></span>
+			<small class="text-muted"> Dim 25 aoû<span class="hidden-xs">t</span> 2019 à 16:59</small>
+			<br>
+			
+		</span>
+
+
+		<p>
+			ponferradina et sporting gijon et huesca et tenerife et estremadure gagane tous local combine
 		</p>
 
 	</div>
@@ -1066,7 +1157,7 @@ ga('send', 'pageview');
 
 </ul>
 
-<!-- cache 2023-05-14 11:18:05 --></div>
+<!-- cache 2023-05-14 11:29:14 --></div>
 	</div>
 </div>
 
@@ -1080,7 +1171,7 @@ ga('send', 'pageview');
     <!-- <div id='gmp-correlati-dsk' class='gmp'></div> -->
 </div>
 
-<input type="hidden" value="" name="f_refresh_score"/>
+<input type="hidden" value="1" name="f_refresh_score"/>
 
 <audio id="player_but">
     <source src="https://asset.matchendirect.fr/audio/but.mp3" type="audio/mpeg">
@@ -1107,10 +1198,10 @@ ga('send', 'pageview');
 
             <div class="panel panel-info">
     <div class="panel-heading">
-        <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> <h3 class="panel-title"> Informations sur les matchs de Süper Lig en live</h3>
+        <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> <h3 class="panel-title"> Quelques détails sur les match  en direct de Liga Adelante</h3>
     </div>
     <div class="panel-body">
-        <p>La Super Lig est en Turquie le premier niveau de football professionnel. Elle existe depuis 1959 et rassemble 18 clubs chaque saison. Depuis cette date, fait rare, presque tous les championnats ont été remportés par des clubs d'Istanbul. A noter que depuis cette année seulement, les clubs évoluant en Super Lig peuvent accueillir jusqu'à 10 joueurs en provenance de l'étranger, ce qui n'était pas permis jusqu'à présent. Le tableau ci-dessus permet de suivre tous les matchs de Süper Lig en direct. Pour vérifier le détail des matches il est nécessaire de cliquer sur les résultats.</p>
+        <p>Le championnat d'Espagne de football de deuxième division est baptisé "Segunda Division". A noter qu'entre 2007 et 2009, la Ligue a changé deux fois d'appellation : d'abord Liga BBVA puis à partir de 2008 Liga Adelante. 22 clubs s'affrontent sous statuts professionnels. A l'issue de chaque saison, les trois premiers du classement sont logiquement promus parmi l'élite à savoir la Primera Division ou Liga. Quant aux quatre derniers au tableau, ils sont relégués en Segunda B. La liste ci-dessus affiche tous les scores de Liga Adelante instantanément. Pour vérifier les détails d'un match il suffit de  cliquer sur les résultats.</p>
     </div>
 </div>
 
@@ -1191,16 +1282,16 @@ ga('send', 'pageview');
 
 	<div class="panel panel-info">
 		<div class="panel-heading">
-			<h3 class="panel-title"><a href="/classement-foot/turquie/classement-super-lig.html">Classement Süper Lig</a></h3>
+			<h3 class="panel-title"><a href="/classement-foot/espagne/classement-segunda-division-liga-adelante.html">Classement Liga Adelante</a></h3>
 		</div>
 		<div class="panel-body">
 			<table class="table table-striped tableau_classement" id="tableau_classement_lite">
 				<tr>
-    <th scope="row"><span data-toggle="tooltip" data-placement="right" title="Tour&nbsp;préliminaire&nbsp;LdC" style="width:100%; height:100%; display:block;">1</span></th>
-    <td class="equipe"><div><a href="/equipe/galatasaray.html"><img src="/image/logo/club/16/galatasaray-logo2217.png?v=20221108" width="16" height="16" loading="lazy" alt="Galatasaray"> Galatasaray</a></div></td>
-    <td><strong>73</strong></td>
-    <td>31</td>
-    <td>43</td>
+    <th scope="row">1</th>
+    <td class="equipe"><div><a href="/equipe/grenade-7072.html"><img src="/image/logo/club/16/grenade-logo7072.png?v=20221108" width="16" height="16" loading="lazy" alt="Grenade"> Grenade</a></div></td>
+    <td><strong>69</strong></td>
+    <td>40</td>
+    <td>21</td>
 </tr><thead>
 <tr>
     <th>&nbsp;</th>
@@ -1212,112 +1303,130 @@ ga('send', 'pageview');
 </thead>
 <tr>
     <th scope="row">2</th>
-    <td class="equipe"><div><a href="/equipe/fenerbahce.html"><img src="/image/logo/club/16/fenerbahce-logo2212.png?v=20221108" width="16" height="16" loading="lazy" alt="Fenerbahce"> Fenerbahce</a></div></td>
-    <td><strong>68</strong></td>
-    <td>31</td>
-    <td>38</td>
+    <td class="equipe"><div><a href="/equipe/las-palmas.html"><img src="/image/logo/club/16/las-palmas-logo2055.png?v=20221108" width="16" height="16" loading="lazy" alt="Las Palmas"> Las Palmas</a></div></td>
+    <td><strong>67</strong></td>
+    <td>39</td>
+    <td>17</td>
 </tr><tr>
     <th scope="row">3</th>
-    <td class="equipe"><div><a href="/equipe/besiktas.html"><img src="/image/logo/club/16/besiktas-logo2214.png?v=20221108" width="16" height="16" loading="lazy" alt="Besiktas"> Besiktas</a></div></td>
-    <td><strong>68</strong></td>
-    <td>32</td>
-    <td>33</td>
+    <td class="equipe"><div><a href="/equipe/eibar.html"><img src="/image/logo/club/16/eibar-logo2042.png?v=20221108" width="16" height="16" loading="lazy" alt="Eibar"> Eibar</a></div></td>
+    <td><strong>67</strong></td>
+    <td>39</td>
+    <td>9</td>
 </tr><tr>
     <th scope="row">4</th>
-    <td class="equipe"><div><a href="/equipe/demirspor-adana.html"><img src="/image/logo/club/16/adana-demirspor-logo2348.png?v=20221108" width="16" height="16" loading="lazy" alt="Adana Demirspor"> Adana Demirspor</a></div></td>
-    <td><strong>60</strong></td>
-    <td>31</td>
-    <td>31</td>
+    <td class="equipe"><div><a href="/equipe/deportivo-alaves.html"><img src="/image/logo/club/16/alaves-logo2037.png?v=20221108" width="16" height="16" loading="lazy" alt="Alavés"> Alavés</a></div></td>
+    <td><strong>66</strong></td>
+    <td>39</td>
+    <td>13</td>
 </tr><tr>
     <th scope="row">5</th>
-    <td class="equipe"><div><a href="/equipe/buyuksehir.html"><img src="/image/logo/club/16/basaksehir-logo2884.png?v=20221108" width="16" height="16" loading="lazy" alt="Basaksehir"> Basaksehir</a></div></td>
-    <td><strong>51</strong></td>
-    <td>31</td>
-    <td>11</td>
+    <td class="equipe"><div><a href="/equipe/levante.html"><img src="/image/logo/club/16/levante-logo2036.png?v=20221108" width="16" height="16" loading="lazy" alt="Levante"> Levante</a></div></td>
+    <td><strong>65</strong></td>
+    <td>39</td>
+    <td>14</td>
 </tr><tr>
     <th scope="row">6</th>
-    <td class="equipe"><div><a href="/equipe/kayserispor.html"><img src="/image/logo/club/16/kayserispor-logo2235.png?v=20221108" width="16" height="16" loading="lazy" alt="Kayserispor"> Kayserispor</a></div></td>
-    <td><strong>49</strong></td>
-    <td>32</td>
-    <td>1</td>
+    <td class="equipe"><div><a href="/equipe/albacete.html"><img src="/image/logo/club/16/albacete-logo2026.png?v=20221108" width="16" height="16" loading="lazy" alt="Albacete"> Albacete</a></div></td>
+    <td><strong>62</strong></td>
+    <td>39</td>
+    <td>10</td>
 </tr><tr>
     <th scope="row">7</th>
-    <td class="equipe"><div><a href="/equipe/trabzonspor.html"><img src="/image/logo/club/16/trabzonspor-logo2213.png?v=20221108" width="16" height="16" loading="lazy" alt="Trabzonspor"> Trabzonspor</a></div></td>
-    <td><strong>48</strong></td>
-    <td>31</td>
-    <td>5</td>
+    <td class="equipe"><div><a href="/equipe/fc-cartagena.html"><img src="/image/logo/club/16/carthagene-logo3008.png?v=20221108" width="16" height="16" loading="lazy" alt="Carthagène"> Carthagène</a></div></td>
+    <td><strong>58</strong></td>
+    <td>40</td>
+    <td>3</td>
 </tr><tr>
     <th scope="row">8</th>
-    <td class="equipe"><div><a href="/equipe/konyaspor.html"><img src="/image/logo/club/16/konyaspor-logo2223.png?v=20221108" width="16" height="16" loading="lazy" alt="Konyaspor"> Konyaspor</a></div></td>
-    <td><strong>46</strong></td>
-    <td>32</td>
-    <td>6</td>
+    <td class="equipe"><div><a href="/equipe/oviedo.html"><img src="/image/logo/club/16/real-oviedo-logo2336.png?v=20221108" width="16" height="16" loading="lazy" alt="Real Oviedo"> Real Oviedo</a></div></td>
+    <td><strong>56</strong></td>
+    <td>40</td>
+    <td>-1</td>
 </tr><tr>
     <th scope="row">9</th>
-    <td class="equipe"><div><a href="/equipe/karagumruk.html"><img src="/image/logo/club/16/fatih-karagumruk-logo3014.png?v=20221108" width="16" height="16" loading="lazy" alt="Fatih Karagümrük"> Fatih Karagümrük</a></div></td>
-    <td><strong>44</strong></td>
-    <td>31</td>
-    <td>11</td>
+    <td class="equipe"><div><a href="/equipe/burgos.html"><img src="/image/logo/club/16/burgos-logo2081.png?v=20221108" width="16" height="16" loading="lazy" alt="Burgos"> Burgos</a></div></td>
+    <td><strong>54</strong></td>
+    <td>40</td>
+    <td>0</td>
 </tr><tr>
     <th scope="row">10</th>
-    <td class="equipe"><div><a href="/equipe/alanyaspor.html"><img src="/image/logo/club/16/alanyaspor-logo7285.png?v=20221108" width="16" height="16" loading="lazy" alt="Alanyaspor"> Alanyaspor</a></div></td>
-    <td><strong>38</strong></td>
-    <td>32</td>
-    <td>-11</td>
+    <td class="equipe"><div><a href="/equipe/tenerife.html"><img src="/image/logo/club/16/tenerife-logo2048.png?v=20221108" width="16" height="16" loading="lazy" alt="Tenerife"> Tenerife</a></div></td>
+    <td><strong>53</strong></td>
+    <td>39</td>
+    <td>5</td>
 </tr><tr>
     <th scope="row">11</th>
-    <td class="equipe"><div><a href="/equipe/sivasspor.html"><img src="/image/logo/club/16/sivasspor-logo2238.png?v=20221108" width="16" height="16" loading="lazy" alt="Sivasspor"> Sivasspor</a></div></td>
-    <td><strong>37</strong></td>
-    <td>32</td>
-    <td>-6</td>
+    <td class="equipe"><div><a href="/equipe/fc-andorra.html"><img src="/image/logo/club/16/equipe-logodefaut.png?v=20221108" width="16" height="16" loading="lazy" alt="FC Andorra"> FC Andorra</a></div></td>
+    <td><strong>52</strong></td>
+    <td>39</td>
+    <td>8</td>
 </tr><tr>
     <th scope="row">12</th>
-    <td class="equipe"><div><a href="/equipe/antalyaspor.html"><img src="/image/logo/club/16/antalyaspor-logo2236.png?v=20221108" width="16" height="16" loading="lazy" alt="Antalyaspor"> Antalyaspor</a></div></td>
-    <td><strong>36</strong></td>
-    <td>31</td>
-    <td>-8</td>
+    <td class="equipe"><div><a href="/equipe/real-saragosse.html"><img src="/image/logo/club/16/real-saragosse-logo2030.png?v=20221108" width="16" height="16" loading="lazy" alt="Real Saragosse"> Real Saragosse</a></div></td>
+    <td><strong>52</strong></td>
+    <td>40</td>
+    <td>2</td>
 </tr><tr>
     <th scope="row">13</th>
-    <td class="equipe"><div><a href="/equipe/ankaragucu.html"><img src="/image/logo/club/16/mke-ankaragucu-logo2218.png?v=20221108" width="16" height="16" loading="lazy" alt="MKE Ankaragücü"> MKE Ankaragücü</a></div></td>
-    <td><strong>35</strong></td>
-    <td>31</td>
-    <td>-8</td>
+    <td class="equipe"><div><a href="/equipe/mrep-islamique-d-irandes.html"><img src="/image/logo/club/16/mirandes-logo9670.png?v=20221108" width="16" height="16" loading="lazy" alt="Mirandés"> Mirandés</a></div></td>
+    <td><strong>52</strong></td>
+    <td>40</td>
+    <td>-3</td>
 </tr><tr>
     <th scope="row">14</th>
-    <td class="equipe"><div><a href="/equipe/istanbulspor.html"><img src="/image/logo/club/16/istanbulspor-as-logo2226.png?v=20221108" width="16" height="16" loading="lazy" alt="Istanbulspor AS"> Istanbulspor AS</a></div></td>
-    <td><strong>35</strong></td>
-    <td>31</td>
-    <td>-18</td>
+    <td class="equipe"><div><a href="/equipe/leganes.html"><img src="/image/logo/club/16/leganes-logo2053.png?v=20221108" width="16" height="16" loading="lazy" alt="Leganes"> Leganes</a></div></td>
+    <td><strong>52</strong></td>
+    <td>40</td>
+    <td>-3</td>
 </tr><tr>
     <th scope="row">15</th>
-    <td class="equipe"><div><a href="/equipe/kasimpasa.html"><img src="/image/logo/club/16/kasimpasa-sk-logo6900.png?v=20221108" width="16" height="16" loading="lazy" alt="Kasimpasa SK"> Kasimpasa SK</a></div></td>
-    <td><strong>34</strong></td>
-    <td>31</td>
-    <td>-14</td>
+    <td class="equipe"><div><a href="/equipe/sporting-gijon.html"><img src="/image/logo/club/16/sporting-gijon-logo2038.png?v=20221108" width="16" height="16" loading="lazy" alt="Sporting Gijón"> Sporting Gijón</a></div></td>
+    <td><strong>49</strong></td>
+    <td>40</td>
+    <td>-2</td>
 </tr><tr>
-    <th scope="row"><span data-toggle="tooltip" data-placement="right" title="Relégation" style="width:100%; height:100%; display:block;">16</span></th>
-    <td class="equipe"><div><a href="/equipe/giresunspor.html"><img src="/image/logo/club/16/giresunspor-logo6042.png?v=20221108" width="16" height="16" loading="lazy" alt="Giresunspor"> Giresunspor</a></div></td>
-    <td><strong>28</strong></td>
-    <td>31</td>
-    <td>-25</td>
+    <th scope="row">16</th>
+    <td class="equipe"><div><a href="/equipe/villarreal-b.html"><img src="/image/logo/club/16/villarreal-ii-logo9076.png?v=20221108" width="16" height="16" loading="lazy" alt="Villarreal II"> Villarreal II</a></div></td>
+    <td><strong>49</strong></td>
+    <td>39</td>
+    <td>-4</td>
 </tr><tr>
-    <th scope="row"><span data-toggle="tooltip" data-placement="right" title="Relégation" style="width:100%; height:100%; display:block;">17</span></th>
-    <td class="equipe"><div><a href="/equipe/umraniyespor.html"><img src="/image/logo/club/16/umraniyespor-logo19664.png?v=20221108" width="16" height="16" loading="lazy" alt="Ümraniyespor"> Ümraniyespor</a></div></td>
-    <td><strong>26</strong></td>
-    <td>31</td>
-    <td>-14</td>
+    <th scope="row">17</th>
+    <td class="equipe"><div><a href="/equipe/huesca.html"><img src="/image/logo/club/16/huesca-logo3003.png?v=20221108" width="16" height="16" loading="lazy" alt="Huesca"> Huesca</a></div></td>
+    <td><strong>48</strong></td>
+    <td>39</td>
+    <td>0</td>
 </tr><tr>
-    <th scope="row"><span data-toggle="tooltip" data-placement="right" title="Relégation" style="width:100%; height:100%; display:block;">18</span></th>
-    <td class="equipe"><div><a href="/equipe/gaziantep-bb.html"><img src="/image/logo/club/16/gaziantep-fk-logo3287.png?v=20221108" width="16" height="16" loading="lazy" alt="Gaziantep FK"> Gaziantep FK</a></div></td>
-    <td><strong>25</strong></td>
-    <td>31</td>
-    <td>-26</td>
+    <th scope="row">18</th>
+    <td class="equipe"><div><a href="/equipe/racing-santander.html"><img src="/image/logo/club/16/racing-santander-logo2029.png?v=20221108" width="16" height="16" loading="lazy" alt="Racing Santander"> Racing Santander</a></div></td>
+    <td><strong>48</strong></td>
+    <td>39</td>
+    <td>-3</td>
 </tr><tr>
     <th scope="row"><span data-toggle="tooltip" data-placement="right" title="Relégation" style="width:100%; height:100%; display:block;">19</span></th>
-    <td class="equipe"><div><a href="/equipe/hatayspor.html"><img src="/image/logo/club/16/hatayspor-logo2883.png?v=20221108" width="16" height="16" loading="lazy" alt="Hatayspor"> Hatayspor</a></div></td>
-    <td><strong>23</strong></td>
-    <td>31</td>
-    <td>-49</td>
+    <td class="equipe"><div><a href="/equipe/malaga.html"><img src="/image/logo/club/16/malaga-logo2024.png?v=20221108" width="16" height="16" loading="lazy" alt="Malaga"> Malaga</a></div></td>
+    <td><strong>43</strong></td>
+    <td>40</td>
+    <td>-6</td>
+</tr><tr>
+    <th scope="row"><span data-toggle="tooltip" data-placement="right" title="Relégation" style="width:100%; height:100%; display:block;">20</span></th>
+    <td class="equipe"><div><a href="/equipe/ponferradina.html"><img src="/image/logo/club/16/ponferradina-logo2084.png?v=20221108" width="16" height="16" loading="lazy" alt="Ponferradina"> Ponferradina</a></div></td>
+    <td><strong>39</strong></td>
+    <td>39</td>
+    <td>-16</td>
+</tr><tr>
+    <th scope="row"><span data-toggle="tooltip" data-placement="right" title="Relégation" style="width:100%; height:100%; display:block;">21</span></th>
+    <td class="equipe"><div><a href="/equipe/ud-ibiza.html"><img src="/image/logo/club/16/equipe-logodefaut.png?v=20221108" width="16" height="16" loading="lazy" alt="Ibiza"> Ibiza</a></div></td>
+    <td><strong>29</strong></td>
+    <td>39</td>
+    <td>-34</td>
+</tr><tr>
+    <th scope="row"><span data-toggle="tooltip" data-placement="right" title="Relégation" style="width:100%; height:100%; display:block;">22</span></th>
+    <td class="equipe"><div><a href="/equipe/club-deportivo-lugo.html"><img src="/image/logo/club/16/lugo-logo7073.png?v=20221108" width="16" height="16" loading="lazy" alt="Lugo"> Lugo</a></div></td>
+    <td><strong>28</strong></td>
+    <td>40</td>
+    <td>-30</td>
 </tr>
 			</table>
 		</div>
@@ -1388,7 +1497,7 @@ ga('send', 'pageview');
 
 
 
-<!-- cache 2023-05-14 11:09:45 -->
+<!-- cache 2023-05-14 11:21:44 -->
 
     <div class="panel panel-info MEDpanelconf">
     <div class="panel-heading">
@@ -1398,21 +1507,13 @@ ga('send', 'pageview');
         <div id="lgCommentairePopulaire" class="list-group groupMatchLink">
             <a href="/tennis/#commentaires" class="list-group-item ">Tennis en direct</a>
 
-<a href="/live-score/juventus-turin-cremonese.html#commentaires" class="list-group-item ">Match Juventus Turin - Cremonese</a>
+<a href="/live-score/marseille-angers.html#commentaires" class="list-group-item ">Match Marseille - Angers </a>
 
-<a href="/foot-score/3811763-espanyol-barcelone-fc-barcelone.html#commentaires" class="list-group-item ">Match Espanyol Barcelone - Barcelone</a>
+<a href="/live-score/olympique-lyonnais-clermont.html#commentaires" class="list-group-item ">Match Clermont - Lyon</a>
 
-<a href="/live-score/naples-monza.html#commentaires" class="list-group-item ">Match Monza - Naples</a>
+<a href="/live-score/rennes-troyes.html#commentaires" class="list-group-item ">Match Rennes - Troyes</a>
 
-<a href="/live-score/shandong-luneng-shijiazhuang-ever-bright.html#commentaires" class="list-group-item ">Match Cangzhou Mighty Lions - Shandong Luneng</a>
-
-<a href="/live-score/torino-verone.html#commentaires" class="list-group-item ">Match Hellas Vérone - Torino</a>
-
-<a href="/live-score/fc-seville-real-valladolid.html#commentaires" class="list-group-item ">Match Real Valladolid - Séville</a>
-
-<a href="/live-score/fc-porto-casa-pia.html#commentaires" class="list-group-item ">Match FC Porto - Casa Pia</a>
-
-<a href="/live-score/werder-de-breme-rb-leipzig.html#commentaires" class="list-group-item ">Match RB Leipzig - Werder Brême</a>
+<a href="/live-score/atletico-de-madrid-elche.html#commentaires" class="list-group-item ">Match Elche - Atlético Madrid</a>
 
 
         </div>
@@ -1421,7 +1522,7 @@ ga('send', 'pageview');
 
 
 
-<!-- cache 2023-05-14 11:15:55 -->
+<!-- cache 2023-05-14 11:30:55 -->
 
     
 
@@ -1666,7 +1767,7 @@ ga('send', 'pageview');
 })(window,document,'script','dataLayer','GTM-N8GGWN5');</script>
 <!-- DBLOCK/ADVERLINE -->
 
-<!-- web1.mathendirect.fr / 2023-05-14 11:19:24 -->
+<!-- web1.mathendirect.fr / 2023-05-14 11:31:20 -->
 <label for="hih0ney" aria-hidden="true" style="display: none"> <input type="radio" name="hih0ney" id="hih0ney"
                                                                       style="display: none" value="1"></label>
 </body>
