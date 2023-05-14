@@ -25,8 +25,8 @@ class Team(Country):
     def __str__(self):
         print(self.tname)
 
-
-r = requests.get('https://www.matchendirect.fr')
+session = requests.Session()
+r = session.get('https://www.matchendirect.fr')
 
 with open('tmp/matchlist', 'w') as fd:
     fd.write(r.text)
@@ -43,7 +43,7 @@ teams2 = soup.find_all(class_='lm3_eq2')
 
 
 for country in countrys:
-    r = requests.get("https://www.matchendirect.fr/{}".format(country.a['href']))
+    r = session.get("https://www.matchendirect.fr/{}".format(country.a['href']))
     with open ('tmp/teamlist', 'w') as fd:
         fd.write(r.text)
 
