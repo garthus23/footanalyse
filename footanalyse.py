@@ -40,7 +40,7 @@ hours = soup.find_all(class_='lm1')
 teams1 = soup.find_all(class_='lm3_eq1')
 teams2 = soup.find_all(class_='lm3_eq2')
 
-
+teamdict = {}
 
 for country in countrys:
     r = session.get("https://www.matchendirect.fr/{}".format(country.a['href']))
@@ -48,14 +48,11 @@ for country in countrys:
         fd.write(r.text)
 
     currentcountry = country.a.text.lower().split(' ')[0]
-    print(currentcountry)
 
     with open('tmp/teamlist') as fp:
         soup = BeautifulSoup(fp, 'html.parser')
         teams = soup.find_all(class_='equipe')
 
     for team in teams:
-        currentteam = team.text.lower()
-        globals()[currentteam] = Team(currentcountry, currentteam)
-        print(globals()[currentteam].__dict__)
-
+        currentteam = team.text.lower()[1:]
+        teamdict[currentteam] = Team(currentcountry, currentteam)
