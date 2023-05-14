@@ -22,6 +22,9 @@ class Team(Country):
     def logo(self, logo):
         self.logo = logo
 
+    def url(self, url):
+        self.url = url
+
     def __repr__(self):
         print("Hello {}".format(self.tname))
 
@@ -55,9 +58,11 @@ for country in countrys:
     teams = soup.find_all(class_='equipe')
 
     for team in teams:
+        print(team)
         currentteam = team.text.lower()[1:]
         teamdict[currentteam] = Team(currentcountry, currentteam)
         teamdict[currentteam].logo=team.img['src']
+        teamdict[currentteam].url=team.a['href']
 
 for key, value in teamdict.items():
         print(value.__dict__)
