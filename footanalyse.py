@@ -47,7 +47,6 @@ teamdict = []
 
 ind=0
 for country in countrys:
-    print(country)
     currentcountry = country.a.text.lower().split(' ')[0]
     if country.a['href'] in desiredcountrys:
         r = session.get("https://www.matchendirect.fr/{}".format(country.a['href']))
