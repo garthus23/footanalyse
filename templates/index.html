@@ -1,15 +1,27 @@
+<!doctype html>
 <html>
-    <head>
-    	<link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
-        <title>Variable Example</title>
-    </head>
-    <body>
-        <h3> Matchs :</h3> 
-	{% for team1,team2 in zip(teams1,teams2) %}
-	{{ team1.text }} - {{ team2.text }}
-	<br> </br>
-	-------------------
-	<br> </br>
-	{% endfor %}
-    </body>
+<head>
+
+<title>Beautiful Page</title>
+</head>
+    <body><link rel="stylesheet" href="/static/mystyle.css">
+        <h5>List of things:</h5>
+	<div class="column1">
+		{% for team1,team2 in zip(teams1,teams2) %}
+        	<div class="row"> 
+        	<div class="hour">12:12</div>
+        	<div class="match">
+            		<img src='star.png'> {{ team1.text }} --- <img src='star.png'> {{ team2.text }}
+        	</div>
+        	<button class="button">infos</button>
+        	</div>
+		<div class="row"> 
+		{% endfor %}
+        </div>
+	<div class="column2">
+		<div class="rssfeed">
+            		<p> HEllo</p>
+		</div>
+	</div>
+	    </body>
 </html>
